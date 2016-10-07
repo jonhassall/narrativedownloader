@@ -1,0 +1,2 @@
+# Configuration files (may contain sensitive access token)
+*.ini
