@@ -1,0 +1,206 @@
+{
+    "previous": null,
+    "results": [
+        {
+            "timestamp": "2016-07-10T19:06:47Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.357239,
+                        52.830334
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "",
+                    "country": "United Kingdom",
+                    "address": ""
+                }
+            },
+            "created": "2016-07-11T04:29:20Z"
+        },
+        {
+            "timestamp": "2016-07-10T18:47:45Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.191271,
+                        52.904689
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Hartness Road"
+                }
+            },
+            "created": "2016-07-11T04:29:22Z"
+        },
+        {
+            "timestamp": "2016-07-10T18:48:29Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.198913,
+                        52.897584
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "",
+                    "country": "United Kingdom",
+                    "address": "Rushcliffe"
+                }
+            },
+            "created": "2016-07-11T04:29:23Z"
+        },
+        {
+            "timestamp": "2016-07-10T18:53:15Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.282001,
+                        52.850828
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "",
+                    "country": "United Kingdom",
+                    "address": ""
+                }
+            },
+            "created": "2016-07-11T04:29:42Z"
+        },
+        {
+            "timestamp": "2016-07-10T18:52:09Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.25793,
+                        52.859628
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "",
+                    "country": "United Kingdom",
+                    "address": ""
+                }
+            },
+            "created": "2016-07-11T04:29:21Z"
+        },
+        {
+            "timestamp": "2016-07-10T18:36:10Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.125511,
+                        52.926416
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Manvers Road"
+                }
+            },
+            "created": "2016-07-11T04:29:28Z"
+        },
+        {
+            "timestamp": "2016-07-10T18:51:25Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.243307,
+                        52.865787
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "",
+                    "country": "United Kingdom",
+                    "address": ""
+                }
+            },
+            "created": "2016-07-11T04:28:31Z"
+        },
+        {
+            "timestamp": "2016-07-10T18:54:21Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.294553,
+                        52.842687
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "",
+                    "country": "United Kingdom",
+                    "address": ""
+                }
+            },
+            "created": "2016-07-11T04:29:22Z"
+        },
+        {
+            "timestamp": "2016-07-10T18:56:33Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.305709,
+                        52.824407
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "",
+                    "country": "United Kingdom",
+                    "address": "Kegworth CP"
+                }
+            },
+            "created": "2016-07-11T04:28:29Z"
+        },
+        {
+            "timestamp": "2016-07-10T18:50:19Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.226956,
+                        52.878363
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "",
+                    "country": "United Kingdom",
+                    "address": "Barton Lane"
+                }
+            },
+            "created": "2016-07-11T04:29:42Z"
+        }
+    ],
+    "next": null
+}

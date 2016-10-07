@@ -1,0 +1,26 @@
+{
+    "previous": null,
+    "results": [
+        {
+            "timestamp": "2016-04-07T17:43:16Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.137481,
+                        52.924784
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Loughborough Road"
+                }
+            },
+            "created": "2016-04-08T13:05:34Z"
+        }
+    ],
+    "next": null
+}

@@ -1,0 +1,46 @@
+{
+    "previous": null,
+    "results": [
+        {
+            "timestamp": "2016-05-12T14:53:57Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.162176,
+                        52.945128
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Kirtley Drive"
+                }
+            },
+            "created": "2016-05-12T17:13:19Z"
+        },
+        {
+            "timestamp": "2016-05-12T15:34:57Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.123452,
+                        52.924935
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Exchange Road"
+                }
+            },
+            "created": "2016-05-12T17:16:25Z"
+        }
+    ],
+    "next": null
+}

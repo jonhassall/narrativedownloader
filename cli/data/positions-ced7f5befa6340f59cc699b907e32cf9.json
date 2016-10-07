@@ -1,0 +1,106 @@
+{
+    "previous": null,
+    "results": [
+        {
+            "timestamp": "2016-06-14T19:50:18Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.135413,
+                        52.937977
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Loughborough Road"
+                }
+            },
+            "created": "2016-06-14T20:17:28Z"
+        },
+        {
+            "timestamp": "2016-06-14T19:42:33Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.068278,
+                        52.961977
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Colwick Loop Road"
+                }
+            },
+            "created": "2016-06-14T20:24:09Z"
+        },
+        {
+            "timestamp": "2016-06-14T19:33:28Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.126399,
+                        52.938364
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Trent Boulevard"
+                }
+            },
+            "created": "2016-06-14T20:24:09Z"
+        },
+        {
+            "timestamp": "2016-06-14T20:10:47Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.128745,
+                        52.926632
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Melton Road"
+                }
+            },
+            "created": "2016-06-14T20:19:10Z"
+        },
+        {
+            "timestamp": "2016-06-14T19:29:48Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.1268,
+                        52.926507
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Manvers Road"
+                }
+            },
+            "created": "2016-06-14T20:15:24Z"
+        }
+    ],
+    "next": null
+}

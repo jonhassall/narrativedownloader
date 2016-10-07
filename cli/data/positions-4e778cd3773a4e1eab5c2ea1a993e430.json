@@ -1,0 +1,246 @@
+{
+    "previous": null,
+    "results": [
+        {
+            "timestamp": "2016-05-27T17:53:09Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.127094,
+                        52.926451
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Manvers Road"
+                }
+            },
+            "created": "2016-05-27T22:58:16Z"
+        },
+        {
+            "timestamp": "2016-05-27T18:13:10Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.153777,
+                        52.969071
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Mansfield Road"
+                }
+            },
+            "created": "2016-05-27T23:00:16Z"
+        },
+        {
+            "timestamp": "2016-05-27T18:53:32Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.153939,
+                        52.969231
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Pelham Avenue"
+                }
+            },
+            "created": "2016-05-27T23:03:54Z"
+        },
+        {
+            "timestamp": "2016-05-27T19:33:47Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.153897,
+                        52.969272
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Pelham Avenue"
+                }
+            },
+            "created": "2016-05-27T23:07:12Z"
+        },
+        {
+            "timestamp": "2016-05-27T20:33:54Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.153926,
+                        52.969265
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Pelham Avenue"
+                }
+            },
+            "created": "2016-05-27T23:12:59Z"
+        },
+        {
+            "timestamp": "2016-05-27T18:33:15Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.153821,
+                        52.969317
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Pelham Avenue"
+                }
+            },
+            "created": "2016-05-27T23:02:05Z"
+        },
+        {
+            "timestamp": "2016-05-27T21:13:58Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.153914,
+                        52.96926
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Pelham Avenue"
+                }
+            },
+            "created": "2016-05-27T23:17:25Z"
+        },
+        {
+            "timestamp": "2016-05-27T19:53:50Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.153903,
+                        52.969258
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Pelham Avenue"
+                }
+            },
+            "created": "2016-05-27T23:08:57Z"
+        },
+        {
+            "timestamp": "2016-05-27T21:34:00Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.153895,
+                        52.969252
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Pelham Avenue"
+                }
+            },
+            "created": "2016-05-27T23:19:47Z"
+        },
+        {
+            "timestamp": "2016-05-27T19:13:34Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.153818,
+                        52.969349
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Pelham Avenue"
+                }
+            },
+            "created": "2016-05-27T23:05:29Z"
+        },
+        {
+            "timestamp": "2016-05-27T20:13:51Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.153908,
+                        52.969261
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Pelham Avenue"
+                }
+            },
+            "created": "2016-05-27T23:10:50Z"
+        },
+        {
+            "timestamp": "2016-05-27T20:53:57Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.153914,
+                        52.969261
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Pelham Avenue"
+                }
+            },
+            "created": "2016-05-27T23:15:19Z"
+        }
+    ],
+    "next": null
+}

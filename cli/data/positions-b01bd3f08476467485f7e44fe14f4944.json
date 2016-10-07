@@ -1,0 +1,46 @@
+{
+    "previous": null,
+    "results": [
+        {
+            "timestamp": "2016-04-11T18:55:35Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.136756,
+                        52.924021
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Loughborough Road"
+                }
+            },
+            "created": "2016-04-14T23:30:09Z"
+        },
+        {
+            "timestamp": "2016-04-11T18:55:21Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.136937,
+                        52.924361
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Loughborough Road"
+                }
+            },
+            "created": "2016-04-14T22:34:12Z"
+        }
+    ],
+    "next": null
+}

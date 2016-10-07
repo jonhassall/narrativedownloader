@@ -1,0 +1,66 @@
+{
+    "previous": null,
+    "results": [
+        {
+            "timestamp": "2016-08-05T20:03:38Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.067623,
+                        52.961014
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Victoria Park Way"
+                }
+            },
+            "created": "2016-08-06T00:01:40Z"
+        },
+        {
+            "timestamp": "2016-08-05T20:23:47Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.12498,
+                        52.981357
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Haywood Road"
+                }
+            },
+            "created": "2016-08-06T00:05:20Z"
+        },
+        {
+            "timestamp": "2016-08-05T20:44:03Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.129534,
+                        52.933899
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Bridgford Road"
+                }
+            },
+            "created": "2016-08-06T00:05:26Z"
+        }
+    ],
+    "next": null
+}

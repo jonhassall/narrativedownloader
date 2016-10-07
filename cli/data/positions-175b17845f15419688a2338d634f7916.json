@@ -1,0 +1,66 @@
+{
+    "previous": null,
+    "results": [
+        {
+            "timestamp": "2016-05-27T21:54:02Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.153931,
+                        52.969244
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Pelham Avenue"
+                }
+            },
+            "created": "2016-05-27T23:21:53Z"
+        },
+        {
+            "timestamp": "2016-05-27T22:34:28Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.141056,
+                        52.949888
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "BBC Island"
+                }
+            },
+            "created": "2016-05-27T23:26:17Z"
+        },
+        {
+            "timestamp": "2016-05-27T22:14:05Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.153915,
+                        52.969271
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Pelham Avenue"
+                }
+            },
+            "created": "2016-05-27T23:23:59Z"
+        }
+    ],
+    "next": null
+}

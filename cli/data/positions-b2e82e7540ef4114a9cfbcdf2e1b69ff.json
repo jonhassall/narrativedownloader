@@ -1,0 +1,46 @@
+{
+    "previous": null,
+    "results": [
+        {
+            "timestamp": "2016-04-07T14:35:41Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.12573,
+                        52.927377
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Clumber Road"
+                }
+            },
+            "created": "2016-04-08T12:29:45Z"
+        },
+        {
+            "timestamp": "2016-04-07T14:30:52Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.125734,
+                        52.930673
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Tudor Square"
+                }
+            },
+            "created": "2016-04-08T15:07:24Z"
+        }
+    ],
+    "next": null
+}

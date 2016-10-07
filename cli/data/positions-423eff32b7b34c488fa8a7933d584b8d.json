@@ -1,0 +1,86 @@
+{
+    "previous": null,
+    "results": [
+        {
+            "timestamp": "2016-07-01T15:16:04Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.126951,
+                        52.926464
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Manvers Road"
+                }
+            },
+            "created": "2016-07-01T16:08:27Z"
+        },
+        {
+            "timestamp": "2016-07-01T14:15:58Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.16327,
+                        52.977566
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Linette Close"
+                }
+            },
+            "created": "2016-07-01T16:03:50Z"
+        },
+        {
+            "timestamp": "2016-07-01T14:36:01Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.128392,
+                        52.946479
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Poulton Drive"
+                }
+            },
+            "created": "2016-07-01T16:01:00Z"
+        },
+        {
+            "timestamp": "2016-07-01T14:56:03Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.138457,
+                        52.923448
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Recycling"
+                }
+            },
+            "created": "2016-07-01T15:58:26Z"
+        }
+    ],
+    "next": null
+}

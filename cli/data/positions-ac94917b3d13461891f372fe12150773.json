@@ -1,0 +1,66 @@
+{
+    "previous": null,
+    "results": [
+        {
+            "timestamp": "2016-08-03T20:31:49Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.138458,
+                        52.92345
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Recycling"
+                }
+            },
+            "created": "2016-08-03T20:51:20Z"
+        },
+        {
+            "timestamp": "2016-08-03T19:51:34Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.138215,
+                        52.923413
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Recycling"
+                }
+            },
+            "created": "2016-08-03T20:48:33Z"
+        },
+        {
+            "timestamp": "2016-08-03T20:11:48Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.13837,
+                        52.92342
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Recycling"
+                }
+            },
+            "created": "2016-08-03T20:49:14Z"
+        }
+    ],
+    "next": null
+}

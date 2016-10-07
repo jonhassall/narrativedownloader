@@ -1,0 +1,66 @@
+{
+    "previous": null,
+    "results": [
+        {
+            "timestamp": "2016-05-29T21:25:23Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.126285,
+                        52.93128
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Rectory Road"
+                }
+            },
+            "created": "2016-05-29T23:40:00Z"
+        },
+        {
+            "timestamp": "2016-05-29T21:27:28Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.126494,
+                        52.930522
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Exchange Road"
+                }
+            },
+            "created": "2016-06-02T10:27:14Z"
+        },
+        {
+            "timestamp": "2016-05-29T21:05:18Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.127111,
+                        52.926443
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Manvers Road"
+                }
+            },
+            "created": "2016-05-29T23:38:31Z"
+        }
+    ],
+    "next": null
+}

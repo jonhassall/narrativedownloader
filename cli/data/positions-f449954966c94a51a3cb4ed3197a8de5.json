@@ -1,0 +1,26 @@
+{
+    "previous": null,
+    "results": [
+        {
+            "timestamp": "2016-04-12T14:58:08Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.123482,
+                        52.926187
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Gordon Road"
+                }
+            },
+            "created": "2016-04-14T22:20:15Z"
+        }
+    ],
+    "next": null
+}

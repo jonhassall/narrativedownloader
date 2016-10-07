@@ -1,0 +1,66 @@
+{
+    "previous": null,
+    "results": [
+        {
+            "timestamp": "2016-05-17T20:59:32Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.127697,
+                        52.925367
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Melton Road"
+                }
+            },
+            "created": "2016-05-17T23:43:15Z"
+        },
+        {
+            "timestamp": "2016-05-17T21:41:02Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.170404,
+                        52.965576
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Radford Road"
+                }
+            },
+            "created": "2016-05-17T23:43:11Z"
+        },
+        {
+            "timestamp": "2016-05-17T21:20:14Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.190467,
+                        52.947586
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Middleton Boulevard"
+                }
+            },
+            "created": "2016-05-17T23:43:51Z"
+        }
+    ],
+    "next": null
+}

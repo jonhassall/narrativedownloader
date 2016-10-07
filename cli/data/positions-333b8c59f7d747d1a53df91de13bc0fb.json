@@ -1,0 +1,306 @@
+{
+    "previous": null,
+    "results": [
+        {
+            "timestamp": "2016-06-06T12:33:01Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.123375,
+                        52.924928
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Exchange Road"
+                }
+            },
+            "created": "2016-06-06T14:36:32Z"
+        },
+        {
+            "timestamp": "2016-06-06T09:08:06Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.126963,
+                        52.926474
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Manvers Road"
+                }
+            },
+            "created": "2016-06-06T14:23:29Z"
+        },
+        {
+            "timestamp": "2016-06-06T09:28:35Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.123241,
+                        52.924904
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Burleigh Road"
+                }
+            },
+            "created": "2016-06-06T14:24:50Z"
+        },
+        {
+            "timestamp": "2016-06-06T10:50:33Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.123254,
+                        52.924907
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Burleigh Road"
+                }
+            },
+            "created": "2016-06-06T14:29:59Z"
+        },
+        {
+            "timestamp": "2016-06-06T11:31:33Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.187412,
+                        52.94073
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Science Road"
+                }
+            },
+            "created": "2016-06-06T14:32:23Z"
+        },
+        {
+            "timestamp": "2016-06-06T13:34:29Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.189432,
+                        52.940826
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Coates Road"
+                }
+            },
+            "created": "2016-06-06T14:40:12Z"
+        },
+        {
+            "timestamp": "2016-06-06T10:09:35Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.123253,
+                        52.924907
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Burleigh Road"
+                }
+            },
+            "created": "2016-06-06T14:27:40Z"
+        },
+        {
+            "timestamp": "2016-06-06T11:11:03Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.123343,
+                        52.924922
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Exchange Road"
+                }
+            },
+            "created": "2016-06-06T14:31:16Z"
+        },
+        {
+            "timestamp": "2016-06-06T09:49:05Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.123277,
+                        52.924913
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Burleigh Road"
+                }
+            },
+            "created": "2016-06-06T14:26:10Z"
+        },
+        {
+            "timestamp": "2016-06-06T12:12:32Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.123259,
+                        52.924909
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Burleigh Road"
+                }
+            },
+            "created": "2016-06-06T14:35:00Z"
+        },
+        {
+            "timestamp": "2016-06-06T12:53:30Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.123365,
+                        52.924929
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Exchange Road"
+                }
+            },
+            "created": "2016-06-06T14:37:43Z"
+        },
+        {
+            "timestamp": "2016-06-06T11:52:02Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.123363,
+                        52.924922
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Exchange Road"
+                }
+            },
+            "created": "2016-06-06T14:33:47Z"
+        },
+        {
+            "timestamp": "2016-06-06T13:55:00Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.138467,
+                        52.923452
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Recycling"
+                }
+            },
+            "created": "2016-06-06T14:41:14Z"
+        },
+        {
+            "timestamp": "2016-06-06T14:15:30Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.123377,
+                        52.924929
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Exchange Road"
+                }
+            },
+            "created": "2016-06-06T14:42:29Z"
+        },
+        {
+            "timestamp": "2016-06-06T10:30:04Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.123199,
+                        52.924894
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Burleigh Road"
+                }
+            },
+            "created": "2016-06-06T14:28:35Z"
+        }
+    ],
+    "next": null
+}

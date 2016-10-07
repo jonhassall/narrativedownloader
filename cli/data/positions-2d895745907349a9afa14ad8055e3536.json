@@ -1,0 +1,146 @@
+{
+    "previous": null,
+    "results": [
+        {
+            "timestamp": "2016-04-22T19:42:08Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        0.155039,
+                        52.193211
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Cambridge",
+                    "country": "United Kingdom",
+                    "address": "Perne Road"
+                }
+            },
+            "created": "2016-04-25T02:30:48Z"
+        },
+        {
+            "timestamp": "2016-04-22T20:43:11Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        0.155037,
+                        52.193244
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Cambridge",
+                    "country": "United Kingdom",
+                    "address": "Perne Road"
+                }
+            },
+            "created": "2016-04-25T02:37:10Z"
+        },
+        {
+            "timestamp": "2016-04-22T20:02:37Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        0.155055,
+                        52.193314
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Cambridge",
+                    "country": "United Kingdom",
+                    "address": "Perne Road"
+                }
+            },
+            "created": "2016-04-25T02:45:35Z"
+        },
+        {
+            "timestamp": "2016-04-22T21:24:07Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        0.155047,
+                        52.193239
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Cambridge",
+                    "country": "United Kingdom",
+                    "address": "Perne Road"
+                }
+            },
+            "created": "2016-04-25T02:38:37Z"
+        },
+        {
+            "timestamp": "2016-04-22T21:44:35Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        0.155072,
+                        52.19335
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Cambridge",
+                    "country": "United Kingdom",
+                    "address": "Perne Road"
+                }
+            },
+            "created": "2016-04-25T02:54:53Z"
+        },
+        {
+            "timestamp": "2016-04-22T20:22:58Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        0.15505,
+                        52.193241
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Cambridge",
+                    "country": "United Kingdom",
+                    "address": "Perne Road"
+                }
+            },
+            "created": "2016-04-25T02:52:10Z"
+        },
+        {
+            "timestamp": "2016-04-22T21:03:36Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        0.155046,
+                        52.19324
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Cambridge",
+                    "country": "United Kingdom",
+                    "address": "Perne Road"
+                }
+            },
+            "created": "2016-04-25T02:37:25Z"
+        }
+    ],
+    "next": null
+}

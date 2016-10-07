@@ -1,0 +1,26 @@
+{
+    "previous": null,
+    "results": [
+        {
+            "timestamp": "2016-05-24T17:59:26Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.140876,
+                        52.94983
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "BBC Island"
+                }
+            },
+            "created": "2016-05-24T20:59:32Z"
+        }
+    ],
+    "next": null
+}

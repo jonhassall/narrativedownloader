@@ -1,0 +1,626 @@
+{
+    "previous": null,
+    "results": [
+        {
+            "timestamp": "2016-06-25T10:51:58Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.026839,
+                        52.947015
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Grantham Road"
+                }
+            },
+            "created": "2016-06-26T01:14:13Z"
+        },
+        {
+            "timestamp": "2016-06-25T10:55:55Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -0.980163,
+                        52.949292
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "",
+                    "country": "United Kingdom",
+                    "address": "Cropwell Butler"
+                }
+            },
+            "created": "2016-06-26T01:14:13Z"
+        },
+        {
+            "timestamp": "2016-06-25T12:09:41Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -0.1237,
+                        52.310883
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "",
+                    "country": "United Kingdom",
+                    "address": ""
+                }
+            },
+            "created": "2016-06-26T02:35:11Z"
+        },
+        {
+            "timestamp": "2016-06-25T10:34:26Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.126972,
+                        52.926474
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Manvers Road"
+                }
+            },
+            "created": "2016-06-25T21:15:18Z"
+        },
+        {
+            "timestamp": "2016-06-25T10:48:14Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.079333,
+                        52.93475
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "",
+                    "country": "United Kingdom",
+                    "address": "Radcliffe Road"
+                }
+            },
+            "created": "2016-06-26T01:14:14Z"
+        },
+        {
+            "timestamp": "2016-06-25T11:06:36Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -0.80393,
+                        52.932776
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "",
+                    "country": "United Kingdom",
+                    "address": "Grantham Road"
+                }
+            },
+            "created": "2016-06-26T02:35:15Z"
+        },
+        {
+            "timestamp": "2016-06-25T12:07:33Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -0.165159,
+                        52.319684
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "",
+                    "country": "United Kingdom",
+                    "address": "Cambridge Road"
+                }
+            },
+            "created": "2016-06-26T02:35:18Z"
+        },
+        {
+            "timestamp": "2016-06-25T12:16:38Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        0.002033,
+                        52.266806
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "",
+                    "country": "United Kingdom",
+                    "address": "Swavesey CP (S Cambs)"
+                }
+            },
+            "created": "2016-06-26T02:35:06Z"
+        },
+        {
+            "timestamp": "2016-06-25T11:11:24Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -0.71431,
+                        52.929849
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "",
+                    "country": "United Kingdom",
+                    "address": "Grantham Road"
+                }
+            },
+            "created": "2016-06-26T02:35:16Z"
+        },
+        {
+            "timestamp": "2016-06-25T11:24:58Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -0.610195,
+                        52.787331
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "",
+                    "country": "United Kingdom",
+                    "address": "Colsterworth CP"
+                }
+            },
+            "created": "2016-06-26T02:35:13Z"
+        },
+        {
+            "timestamp": "2016-06-25T11:32:58Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -0.557898,
+                        52.689012
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "",
+                    "country": "United Kingdom",
+                    "address": ""
+                }
+            },
+            "created": "2016-06-26T02:35:13Z"
+        },
+        {
+            "timestamp": "2016-06-25T11:56:52Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -0.272829,
+                        52.438115
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "",
+                    "country": "United Kingdom",
+                    "address": "Old Great North Road"
+                }
+            },
+            "created": "2016-06-26T02:35:09Z"
+        },
+        {
+            "timestamp": "2016-06-25T11:57:56Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -0.268855,
+                        52.424606
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "",
+                    "country": "United Kingdom",
+                    "address": "Toll Bar Way"
+                }
+            },
+            "created": "2016-06-26T02:35:12Z"
+        },
+        {
+            "timestamp": "2016-06-25T12:37:24Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        0.133217,
+                        52.215945
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Cambridge",
+                    "country": "United Kingdom",
+                    "address": "Chesterton Road"
+                }
+            },
+            "created": "2016-06-25T21:24:32Z"
+        },
+        {
+            "timestamp": "2016-06-25T10:45:34Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.109112,
+                        52.931198
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Radcliffe Road"
+                }
+            },
+            "created": "2016-06-26T01:14:12Z"
+        },
+        {
+            "timestamp": "2016-06-25T10:54:06Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.006861,
+                        52.950985
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "",
+                    "country": "United Kingdom",
+                    "address": "Grantham Road"
+                }
+            },
+            "created": "2016-06-26T01:14:14Z"
+        },
+        {
+            "timestamp": "2016-06-25T12:13:58Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -0.044443,
+                        52.287093
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "",
+                    "country": "United Kingdom",
+                    "address": "Conington CP (S Cambs)"
+                }
+            },
+            "created": "2016-06-26T02:35:08Z"
+        },
+        {
+            "timestamp": "2016-06-25T12:19:31Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        0.050946,
+                        52.244236
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "",
+                    "country": "United Kingdom",
+                    "address": "Dry Drayton CP (S Cambs)"
+                }
+            },
+            "created": "2016-06-26T02:35:10Z"
+        },
+        {
+            "timestamp": "2016-06-25T10:48:46Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.068876,
+                        52.936869
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "",
+                    "country": "United Kingdom",
+                    "address": "Grantham Road"
+                }
+            },
+            "created": "2016-06-26T01:14:12Z"
+        },
+        {
+            "timestamp": "2016-06-25T11:09:48Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -0.741651,
+                        52.932179
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "",
+                    "country": "United Kingdom",
+                    "address": "Grantham Road"
+                }
+            },
+            "created": "2016-06-26T02:35:12Z"
+        },
+        {
+            "timestamp": "2016-06-25T12:04:21Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -0.218559,
+                        52.346764
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "",
+                    "country": "United Kingdom",
+                    "address": ""
+                }
+            },
+            "created": "2016-06-26T02:35:15Z"
+        },
+        {
+            "timestamp": "2016-06-25T12:12:22Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -0.073578,
+                        52.297222
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "",
+                    "country": "United Kingdom",
+                    "address": "Hilton Road"
+                }
+            },
+            "created": "2016-06-26T02:35:17Z"
+        },
+        {
+            "timestamp": "2016-06-25T10:43:58Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.112824,
+                        52.931232
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Davies Road"
+                }
+            },
+            "created": "2016-06-26T01:14:13Z"
+        },
+        {
+            "timestamp": "2016-06-25T10:46:06Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.109085,
+                        52.931254
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Radcliffe Road"
+                }
+            },
+            "created": "2016-06-26T01:14:13Z"
+        },
+        {
+            "timestamp": "2016-06-25T10:47:10Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.100079,
+                        52.932814
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Grantham Road"
+                }
+            },
+            "created": "2016-06-26T01:14:11Z"
+        },
+        {
+            "timestamp": "2016-06-25T12:01:08Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -0.258334,
+                        52.381553
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "",
+                    "country": "United Kingdom",
+                    "address": ""
+                }
+            },
+            "created": "2016-06-26T02:35:14Z"
+        },
+        {
+            "timestamp": "2016-06-25T12:23:15Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        0.093586,
+                        52.222367
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Cambridge",
+                    "country": "United Kingdom",
+                    "address": "Huntingdon Road"
+                }
+            },
+            "created": "2016-06-26T02:35:16Z"
+        },
+        {
+            "timestamp": "2016-06-25T12:25:55Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        0.110898,
+                        52.214194
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Cambridge",
+                    "country": "United Kingdom",
+                    "address": "Victoria Road"
+                }
+            },
+            "created": "2016-06-26T02:35:14Z"
+        },
+        {
+            "timestamp": "2016-06-25T12:57:55Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        0.133215,
+                        52.215944
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Cambridge",
+                    "country": "United Kingdom",
+                    "address": "Chesterton Road"
+                }
+            },
+            "created": "2016-06-25T21:25:51Z"
+        },
+        {
+            "timestamp": "2016-06-25T13:18:25Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        0.133216,
+                        52.215943
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Cambridge",
+                    "country": "United Kingdom",
+                    "address": "Chesterton Road"
+                }
+            },
+            "created": "2016-06-25T21:27:16Z"
+        },
+        {
+            "timestamp": "2016-06-25T11:50:47Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -0.301238,
+                        52.517653
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "",
+                    "country": "United Kingdom",
+                    "address": "Great North Road"
+                }
+            },
+            "created": "2016-06-26T02:35:10Z"
+        }
+    ],
+    "next": null
+}

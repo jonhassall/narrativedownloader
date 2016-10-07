@@ -1,0 +1,106 @@
+{
+    "previous": null,
+    "results": [
+        {
+            "timestamp": "2016-05-31T14:04:49Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.123129,
+                        52.924876
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Burleigh Road"
+                }
+            },
+            "created": "2016-05-31T16:02:27Z"
+        },
+        {
+            "timestamp": "2016-05-31T14:44:58Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.123108,
+                        52.924871
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Burleigh Road"
+                }
+            },
+            "created": "2016-05-31T16:08:43Z"
+        },
+        {
+            "timestamp": "2016-05-31T13:44:45Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.123138,
+                        52.924878
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Burleigh Road"
+                }
+            },
+            "created": "2016-05-31T15:58:58Z"
+        },
+        {
+            "timestamp": "2016-05-31T14:24:53Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.123138,
+                        52.924878
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Burleigh Road"
+                }
+            },
+            "created": "2016-05-31T16:05:54Z"
+        },
+        {
+            "timestamp": "2016-05-31T13:24:43Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.123124,
+                        52.924875
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Burleigh Road"
+                }
+            },
+            "created": "2016-05-31T15:55:47Z"
+        }
+    ],
+    "next": null
+}

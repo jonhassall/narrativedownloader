@@ -1,0 +1,66 @@
+{
+    "previous": null,
+    "results": [
+        {
+            "timestamp": "2016-05-15T16:10:50Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.122898,
+                        52.925361
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Gordon Road"
+                }
+            },
+            "created": "2016-05-16T00:09:43Z"
+        },
+        {
+            "timestamp": "2016-05-15T16:31:19Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.153367,
+                        52.918504
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Rugby Road"
+                }
+            },
+            "created": "2016-05-16T00:09:31Z"
+        },
+        {
+            "timestamp": "2016-05-15T16:37:09Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.139929,
+                        52.928383
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Chestnut Grove"
+                }
+            },
+            "created": "2016-05-16T23:25:39Z"
+        }
+    ],
+    "next": null
+}

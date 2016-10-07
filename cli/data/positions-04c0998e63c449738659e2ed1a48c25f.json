@@ -1,0 +1,86 @@
+{
+    "previous": null,
+    "results": [
+        {
+            "timestamp": "2016-02-26T14:10:11Z",
+            "camera_uuid": "8e4fe98caa7d4ed6841cfc9cb54e255d",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -98.228254,
+                        26.227228
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "McAllen",
+                    "country": "United States",
+                    "address": "Highland Ave"
+                }
+            },
+            "created": "2016-04-19T10:48:17Z"
+        },
+        {
+            "timestamp": "2016-02-26T14:10:47Z",
+            "camera_uuid": "8e4fe98caa7d4ed6841cfc9cb54e255d",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -98.227946,
+                        26.227337
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "McAllen",
+                    "country": "United States",
+                    "address": "Highland Ave"
+                }
+            },
+            "created": "2016-04-19T10:48:16Z"
+        },
+        {
+            "timestamp": "2016-02-26T14:10:23Z",
+            "camera_uuid": "8e4fe98caa7d4ed6841cfc9cb54e255d",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -98.228536,
+                        26.227328
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "McAllen",
+                    "country": "United States",
+                    "address": "N 12th St"
+                }
+            },
+            "created": "2016-04-19T10:48:17Z"
+        },
+        {
+            "timestamp": "2016-02-26T13:58:23Z",
+            "camera_uuid": "8e4fe98caa7d4ed6841cfc9cb54e255d",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -98.228254,
+                        26.227591
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "McAllen",
+                    "country": "United States",
+                    "address": "N 12th St"
+                }
+            },
+            "created": "2016-04-19T10:48:22Z"
+        }
+    ],
+    "next": null
+}

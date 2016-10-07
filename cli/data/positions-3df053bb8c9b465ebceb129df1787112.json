@@ -1,0 +1,86 @@
+{
+    "previous": null,
+    "results": [
+        {
+            "timestamp": "2016-06-09T20:15:05Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.126928,
+                        52.926475
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Manvers Road"
+                }
+            },
+            "created": "2016-06-09T22:02:03Z"
+        },
+        {
+            "timestamp": "2016-06-09T20:35:06Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.126976,
+                        52.926499
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Manvers Road"
+                }
+            },
+            "created": "2016-06-09T22:03:20Z"
+        },
+        {
+            "timestamp": "2016-06-09T20:55:35Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.124284,
+                        52.936582
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Trevelyan Road"
+                }
+            },
+            "created": "2016-06-09T22:04:46Z"
+        },
+        {
+            "timestamp": "2016-06-09T21:15:35Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.155813,
+                        52.955296
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Wollaton Street"
+                }
+            },
+            "created": "2016-06-09T22:06:51Z"
+        }
+    ],
+    "next": null
+}

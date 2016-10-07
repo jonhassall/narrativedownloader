@@ -1,0 +1,46 @@
+{
+    "previous": null,
+    "results": [
+        {
+            "timestamp": "2016-07-10T13:05:31Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.138471,
+                        52.923459
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Recycling"
+                }
+            },
+            "created": "2016-07-10T13:58:55Z"
+        },
+        {
+            "timestamp": "2016-07-10T12:44:53Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.159571,
+                        52.946177
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Tinkers Way"
+                }
+            },
+            "created": "2016-07-10T13:54:27Z"
+        }
+    ],
+    "next": null
+}

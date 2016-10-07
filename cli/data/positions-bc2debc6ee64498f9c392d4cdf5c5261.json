@@ -1,0 +1,26 @@
+{
+    "previous": null,
+    "results": [
+        {
+            "timestamp": "2016-02-28T21:47:34Z",
+            "camera_uuid": "8e4fe98caa7d4ed6841cfc9cb54e255d",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -98.2378766667,
+                        26.1855916667
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Rio Bravo",
+                    "country": "United States of America",
+                    "address": "Uvalde Avenue"
+                }
+            },
+            "created": "2016-02-29T03:21:02Z"
+        }
+    ],
+    "next": null
+}

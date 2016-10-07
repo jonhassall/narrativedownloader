@@ -1,0 +1,66 @@
+{
+    "previous": null,
+    "results": [
+        {
+            "timestamp": "2016-05-10T20:31:45Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.134629,
+                        52.93697
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Bridgford Road"
+                }
+            },
+            "created": "2016-05-10T21:28:10Z"
+        },
+        {
+            "timestamp": "2016-05-10T20:11:36Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.170702,
+                        52.96738
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Nottingham Express Transit Line 1"
+                }
+            },
+            "created": "2016-05-10T21:24:49Z"
+        },
+        {
+            "timestamp": "2016-05-10T19:48:29Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.101898,
+                        52.924359
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Gamston"
+                }
+            },
+            "created": "2016-05-10T21:23:02Z"
+        }
+    ],
+    "next": null
+}

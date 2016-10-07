@@ -1,0 +1,86 @@
+{
+    "previous": null,
+    "results": [
+        {
+            "timestamp": "2016-07-01T12:35:12Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.13369,
+                        52.944015
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Meadow Lane"
+                }
+            },
+            "created": "2016-07-01T15:42:05Z"
+        },
+        {
+            "timestamp": "2016-07-01T12:55:12Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.130802,
+                        52.946159
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Meadow Lane"
+                }
+            },
+            "created": "2016-07-01T15:47:34Z"
+        },
+        {
+            "timestamp": "2016-07-01T13:35:35Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.163277,
+                        52.977562
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Linette Close"
+                }
+            },
+            "created": "2016-07-01T15:52:33Z"
+        },
+        {
+            "timestamp": "2016-07-01T13:15:15Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.146249,
+                        52.957544
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Old Street"
+                }
+            },
+            "created": "2016-07-01T15:50:36Z"
+        }
+    ],
+    "next": null
+}

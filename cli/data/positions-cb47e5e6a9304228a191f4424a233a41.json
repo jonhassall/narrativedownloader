@@ -1,0 +1,86 @@
+{
+    "previous": null,
+    "results": [
+        {
+            "timestamp": "2016-05-26T14:02:48Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.127099,
+                        52.926447
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Manvers Road"
+                }
+            },
+            "created": "2016-05-26T17:20:35Z"
+        },
+        {
+            "timestamp": "2016-05-26T14:23:12Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.147668,
+                        52.954038
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Clumber Street"
+                }
+            },
+            "created": "2016-05-26T17:21:52Z"
+        },
+        {
+            "timestamp": "2016-05-26T14:43:36Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.145146,
+                        52.954426
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "George Street"
+                }
+            },
+            "created": "2016-05-26T17:23:49Z"
+        },
+        {
+            "timestamp": "2016-05-26T15:24:00Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.126314,
+                        52.926646
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Manvers Road"
+                }
+            },
+            "created": "2016-05-26T17:27:12Z"
+        }
+    ],
+    "next": null
+}

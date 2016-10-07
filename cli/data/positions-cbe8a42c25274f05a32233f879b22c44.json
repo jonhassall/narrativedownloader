@@ -1,0 +1,26 @@
+{
+    "previous": null,
+    "results": [
+        {
+            "timestamp": "2016-04-10T04:46:59Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.125104,
+                        52.926296
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Carnarvon Road"
+                }
+            },
+            "created": "2016-04-13T12:19:02Z"
+        }
+    ],
+    "next": null
+}

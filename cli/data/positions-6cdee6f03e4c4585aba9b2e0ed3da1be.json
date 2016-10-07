@@ -1,0 +1,106 @@
+{
+    "previous": null,
+    "results": [
+        {
+            "timestamp": "2016-04-14T21:33:47Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.137683,
+                        52.922995
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Rugby Road"
+                }
+            },
+            "created": "2016-04-15T03:55:01Z"
+        },
+        {
+            "timestamp": "2016-04-14T21:34:55Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.135836,
+                        52.92322
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Loughborough Road"
+                }
+            },
+            "created": "2016-04-15T05:09:15Z"
+        },
+        {
+            "timestamp": "2016-04-14T21:34:04Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.138567,
+                        52.922966
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Recycling"
+                }
+            },
+            "created": "2016-04-15T03:03:00Z"
+        },
+        {
+            "timestamp": "2016-04-14T21:33:30Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.138498,
+                        52.922812
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Rugby Road"
+                }
+            },
+            "created": "2016-04-15T04:41:45Z"
+        },
+        {
+            "timestamp": "2016-04-14T21:35:13Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.135323,
+                        52.92367
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Loughborough Road"
+                }
+            },
+            "created": "2016-04-15T03:58:51Z"
+        }
+    ],
+    "next": null
+}

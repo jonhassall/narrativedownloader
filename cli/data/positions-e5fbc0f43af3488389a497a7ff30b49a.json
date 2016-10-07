@@ -1,0 +1,46 @@
+{
+    "previous": null,
+    "results": [
+        {
+            "timestamp": "2016-05-10T22:45:21Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.150571,
+                        52.95223
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Eldon Chambers"
+                }
+            },
+            "created": "2016-05-10T23:43:41Z"
+        },
+        {
+            "timestamp": "2016-05-10T23:05:24Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.151732,
+                        52.952101
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Spaniel Row"
+                }
+            },
+            "created": "2016-05-10T23:47:30Z"
+        }
+    ],
+    "next": null
+}

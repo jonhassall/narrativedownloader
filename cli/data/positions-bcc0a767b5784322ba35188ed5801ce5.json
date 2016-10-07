@@ -1,0 +1,106 @@
+{
+    "previous": null,
+    "results": [
+        {
+            "timestamp": "2016-05-14T16:57:08Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.132186,
+                        52.935494
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Bridgford Road"
+                }
+            },
+            "created": "2016-05-14T21:24:47Z"
+        },
+        {
+            "timestamp": "2016-05-14T17:37:30Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.125413,
+                        52.929183
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Gordon Road"
+                }
+            },
+            "created": "2016-05-14T21:27:45Z"
+        },
+        {
+            "timestamp": "2016-05-14T17:57:59Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.127196,
+                        52.92643
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Manvers Road"
+                }
+            },
+            "created": "2016-05-14T21:28:56Z"
+        },
+        {
+            "timestamp": "2016-05-14T16:36:46Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.127106,
+                        52.92645
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Manvers Road"
+                }
+            },
+            "created": "2016-05-14T21:23:40Z"
+        },
+        {
+            "timestamp": "2016-05-14T17:17:20Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.067955,
+                        52.961116
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Victoria Park Way"
+                }
+            },
+            "created": "2016-05-14T21:26:32Z"
+        }
+    ],
+    "next": null
+}

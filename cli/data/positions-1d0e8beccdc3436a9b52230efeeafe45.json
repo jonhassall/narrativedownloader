@@ -1,0 +1,126 @@
+{
+    "previous": null,
+    "results": [
+        {
+            "timestamp": "2016-04-19T21:13:28Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.139728,
+                        52.92228
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Rugby Road"
+                }
+            },
+            "created": "2016-04-20T02:03:20Z"
+        },
+        {
+            "timestamp": "2016-04-19T21:13:45Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.137498,
+                        52.922731
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Rugby Road"
+                }
+            },
+            "created": "2016-04-20T02:03:21Z"
+        },
+        {
+            "timestamp": "2016-04-19T21:14:02Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.13788,
+                        52.922952
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Rugby Road"
+                }
+            },
+            "created": "2016-04-20T02:03:21Z"
+        },
+        {
+            "timestamp": "2016-04-19T21:13:11Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.138463,
+                        52.922908
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Rugby Road"
+                }
+            },
+            "created": "2016-04-20T02:03:21Z"
+        },
+        {
+            "timestamp": "2016-04-19T21:00:37Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.134985,
+                        52.922796
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Eton Road"
+                }
+            },
+            "created": "2016-04-20T00:54:14Z"
+        },
+        {
+            "timestamp": "2016-04-19T21:20:41Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.132559,
+                        52.923721
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Eton Road"
+                }
+            },
+            "created": "2016-04-20T00:57:28Z"
+        }
+    ],
+    "next": null
+}

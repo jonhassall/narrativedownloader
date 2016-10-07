@@ -1,0 +1,146 @@
+{
+    "previous": null,
+    "results": [
+        {
+            "timestamp": "2016-07-06T12:22:44Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.151367,
+                        52.955843
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Burton Street"
+                }
+            },
+            "created": "2016-07-06T14:39:25Z"
+        },
+        {
+            "timestamp": "2016-07-06T13:22:49Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.149379,
+                        52.953471
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Smithy Row"
+                }
+            },
+            "created": "2016-07-06T14:46:42Z"
+        },
+        {
+            "timestamp": "2016-07-06T11:42:41Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.126954,
+                        52.926459
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Manvers Road"
+                }
+            },
+            "created": "2016-07-06T14:35:12Z"
+        },
+        {
+            "timestamp": "2016-07-06T12:02:42Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.141163,
+                        52.953663
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Belward Street"
+                }
+            },
+            "created": "2016-07-06T14:36:35Z"
+        },
+        {
+            "timestamp": "2016-07-06T12:42:45Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.151348,
+                        52.955833
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Burton Street"
+                }
+            },
+            "created": "2016-07-06T14:42:10Z"
+        },
+        {
+            "timestamp": "2016-07-06T13:42:52Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.149808,
+                        52.952586
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Wheeler Gate"
+                }
+            },
+            "created": "2016-07-06T14:48:05Z"
+        },
+        {
+            "timestamp": "2016-07-06T14:23:08Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.126943,
+                        52.926462
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Manvers Road"
+                }
+            },
+            "created": "2016-07-06T14:53:44Z"
+        }
+    ],
+    "next": null
+}

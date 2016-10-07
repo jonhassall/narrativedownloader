@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Narrative Clip Downloader by Jonathan Hassall</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <script src="jquery-3.1.0.min.js"></script>
+        <script src="clipboard.min.js"></script>
+        <script src='app.js'></script>
+        
+        <style>
+            #access_token
+            {
+                font-family: monospace;
+                width: 240px;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>Narrative Clip Downloader by Jonathan Hassall</h1>
+
+        <div id="access_token_container" style="display: hidden;">
+            <!--Your access token: <div id="access_token"></div>-->
+            Your access token: <input id="access_token" type="text" value="hello">
+            <button class="btn" data-clipboard-action="copy" data-clipboard-target="#access_token">Copy</button>
+        </div>
+    </body>
+</html>

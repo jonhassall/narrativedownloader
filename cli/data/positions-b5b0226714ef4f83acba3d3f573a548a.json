@@ -1,0 +1,266 @@
+{
+    "previous": null,
+    "results": [
+        {
+            "timestamp": "2016-06-13T13:01:37Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.123287,
+                        52.924662
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Burleigh Road"
+                }
+            },
+            "created": "2016-06-13T15:24:21Z"
+        },
+        {
+            "timestamp": "2016-06-13T13:41:47Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.124555,
+                        52.921325
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Melton Road"
+                }
+            },
+            "created": "2016-06-13T15:32:17Z"
+        },
+        {
+            "timestamp": "2016-06-13T13:49:56Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.173109,
+                        52.934934
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Clifton Boulevard"
+                }
+            },
+            "created": "2016-06-13T16:27:31Z"
+        },
+        {
+            "timestamp": "2016-06-13T14:05:40Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.190953,
+                        52.950232
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Middleton Boulevard"
+                }
+            },
+            "created": "2016-06-13T16:27:30Z"
+        },
+        {
+            "timestamp": "2016-06-13T13:41:11Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.128498,
+                        52.925325
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Devonshire Road"
+                }
+            },
+            "created": "2016-06-13T16:27:23Z"
+        },
+        {
+            "timestamp": "2016-06-13T14:14:11Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.136511,
+                        52.923591
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Loughborough Road"
+                }
+            },
+            "created": "2016-06-13T16:27:28Z"
+        },
+        {
+            "timestamp": "2016-06-13T14:22:21Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.139585,
+                        52.923336
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": ""
+                }
+            },
+            "created": "2016-06-13T16:27:23Z"
+        },
+        {
+            "timestamp": "2016-06-13T14:21:53Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.138158,
+                        52.923381
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Recycling"
+                }
+            },
+            "created": "2016-06-13T15:41:29Z"
+        },
+        {
+            "timestamp": "2016-06-13T13:21:44Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.123065,
+                        52.92486
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Burleigh Road"
+                }
+            },
+            "created": "2016-06-13T15:28:08Z"
+        },
+        {
+            "timestamp": "2016-06-13T12:41:29Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.125776,
+                        52.925187
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Tavistock Road"
+                }
+            },
+            "created": "2016-06-13T15:17:52Z"
+        },
+        {
+            "timestamp": "2016-06-13T14:01:47Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.18869,
+                        52.954674
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Wollaton Road"
+                }
+            },
+            "created": "2016-06-13T15:36:40Z"
+        },
+        {
+            "timestamp": "2016-06-13T14:08:30Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.166372,
+                        52.926123
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Clifton Boulevard"
+                }
+            },
+            "created": "2016-06-13T16:27:21Z"
+        },
+        {
+            "timestamp": "2016-06-13T13:44:49Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.120946,
+                        52.904345
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "",
+                    "country": "United Kingdom",
+                    "address": "Melton Road"
+                }
+            },
+            "created": "2016-06-13T16:27:25Z"
+        }
+    ],
+    "next": null
+}

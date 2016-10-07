@@ -1,0 +1,546 @@
+{
+    "previous": null,
+    "results": [
+        {
+            "timestamp": "2016-07-01T21:07:15Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.217289,
+                        52.88531
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "",
+                    "country": "United Kingdom",
+                    "address": "Green Street"
+                }
+            },
+            "created": "2016-07-05T20:24:02Z"
+        },
+        {
+            "timestamp": "2016-07-01T21:10:55Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.287051,
+                        52.847292
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "",
+                    "country": "United Kingdom",
+                    "address": ""
+                }
+            },
+            "created": "2016-07-05T20:24:13Z"
+        },
+        {
+            "timestamp": "2016-07-01T21:11:39Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.294244,
+                        52.844291
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "",
+                    "country": "United Kingdom",
+                    "address": ""
+                }
+            },
+            "created": "2016-07-05T20:23:57Z"
+        },
+        {
+            "timestamp": "2016-07-01T21:14:35Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.304336,
+                        52.805284
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "",
+                    "country": "United Kingdom",
+                    "address": "Long Whatton Services"
+                }
+            },
+            "created": "2016-07-05T20:23:54Z"
+        },
+        {
+            "timestamp": "2016-07-01T21:19:46Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.279558,
+                        52.777601
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "",
+                    "country": "United Kingdom",
+                    "address": ""
+                }
+            },
+            "created": "2016-07-05T20:23:53Z"
+        },
+        {
+            "timestamp": "2016-07-01T21:05:47Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.197928,
+                        52.899115
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Barton Lane"
+                }
+            },
+            "created": "2016-07-05T20:24:06Z"
+        },
+        {
+            "timestamp": "2016-07-01T21:11:17Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.292702,
+                        52.845095
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "",
+                    "country": "United Kingdom",
+                    "address": "Derwent Aqueduct (Leicester Branch)"
+                }
+            },
+            "created": "2016-07-05T20:23:56Z"
+        },
+        {
+            "timestamp": "2016-07-01T21:12:23Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.295881,
+                        52.839546
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "",
+                    "country": "United Kingdom",
+                    "address": ""
+                }
+            },
+            "created": "2016-07-05T20:24:11Z"
+        },
+        {
+            "timestamp": "2016-07-01T21:26:35Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.311162,
+                        52.881398
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "",
+                    "country": "United Kingdom",
+                    "address": "Wilne Lane"
+                }
+            },
+            "created": "2016-07-05T20:24:07Z"
+        },
+        {
+            "timestamp": "2016-07-01T21:31:44Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.263076,
+                        52.922043
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Brian Clough Way"
+                }
+            },
+            "created": "2016-07-05T20:24:12Z"
+        },
+        {
+            "timestamp": "2016-07-01T21:38:48Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.185233,
+                        52.94698
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Derby Road"
+                }
+            },
+            "created": "2016-07-05T20:24:09Z"
+        },
+        {
+            "timestamp": "2016-07-01T21:06:53Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.210063,
+                        52.889875
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "",
+                    "country": "United Kingdom",
+                    "address": ""
+                }
+            },
+            "created": "2016-07-05T20:24:01Z"
+        },
+        {
+            "timestamp": "2016-07-01T21:09:49Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.264982,
+                        52.857821
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "",
+                    "country": "United Kingdom",
+                    "address": "Leicestershire"
+                }
+            },
+            "created": "2016-07-05T20:24:00Z"
+        },
+        {
+            "timestamp": "2016-07-01T21:10:33Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.281478,
+                        52.851259
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "",
+                    "country": "United Kingdom",
+                    "address": ""
+                }
+            },
+            "created": "2016-07-05T20:23:57Z"
+        },
+        {
+            "timestamp": "2016-07-01T21:14:13Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.306349,
+                        52.810744
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "",
+                    "country": "United Kingdom",
+                    "address": ""
+                }
+            },
+            "created": "2016-07-05T20:23:59Z"
+        },
+        {
+            "timestamp": "2016-07-01T21:22:33Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.305977,
+                        52.81856
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "",
+                    "country": "United Kingdom",
+                    "address": ""
+                }
+            },
+            "created": "2016-07-05T20:24:03Z"
+        },
+        {
+            "timestamp": "2016-07-01T21:28:25Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.29986,
+                        52.910185
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "",
+                    "country": "United Kingdom",
+                    "address": "Bostocks Lane"
+                }
+            },
+            "created": "2016-07-05T20:23:51Z"
+        },
+        {
+            "timestamp": "2016-07-01T20:56:46Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.137164,
+                        52.923791
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Loughborough Road"
+                }
+            },
+            "created": "2016-07-05T20:24:01Z"
+        },
+        {
+            "timestamp": "2016-07-01T21:01:45Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.161773,
+                        52.925805
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Clifton Lane"
+                }
+            },
+            "created": "2016-07-05T20:24:05Z"
+        },
+        {
+            "timestamp": "2016-07-01T21:10:11Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.273338,
+                        52.854861
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "",
+                    "country": "United Kingdom",
+                    "address": ""
+                }
+            },
+            "created": "2016-07-05T20:24:08Z"
+        },
+        {
+            "timestamp": "2016-07-01T21:13:29Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.303475,
+                        52.823408
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "",
+                    "country": "United Kingdom",
+                    "address": "Kegworth CP"
+                }
+            },
+            "created": "2016-07-05T20:23:55Z"
+        },
+        {
+            "timestamp": "2016-07-01T20:57:30Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.139287,
+                        52.926782
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Springfields"
+                }
+            },
+            "created": "2016-07-05T20:23:58Z"
+        },
+        {
+            "timestamp": "2016-07-01T21:06:31Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.202731,
+                        52.893796
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "",
+                    "country": "United Kingdom",
+                    "address": ""
+                }
+            },
+            "created": "2016-07-05T20:24:06Z"
+        },
+        {
+            "timestamp": "2016-07-01T21:08:43Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.240693,
+                        52.866827
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "",
+                    "country": "United Kingdom",
+                    "address": "West Leake Lane"
+                }
+            },
+            "created": "2016-07-05T20:23:53Z"
+        },
+        {
+            "timestamp": "2016-07-01T21:12:01Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.29492,
+                        52.842919
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "",
+                    "country": "United Kingdom",
+                    "address": ""
+                }
+            },
+            "created": "2016-07-05T20:24:09Z"
+        },
+        {
+            "timestamp": "2016-07-01T21:26:13Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.309329,
+                        52.875321
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "",
+                    "country": "United Kingdom",
+                    "address": "Breaston"
+                }
+            },
+            "created": "2016-07-05T20:24:04Z"
+        },
+        {
+            "timestamp": "2016-07-01T21:40:46Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.162777,
+                        52.955453
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Derby Road"
+                }
+            },
+            "created": "2016-07-05T14:47:30Z"
+        }
+    ],
+    "next": null
+}

@@ -1,0 +1,286 @@
+{
+    "previous": null,
+    "results": [
+        {
+            "timestamp": "2016-06-25T16:49:26Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        0.133211,
+                        52.215943
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Cambridge",
+                    "country": "United Kingdom",
+                    "address": "Chesterton Road"
+                }
+            },
+            "created": "2016-06-25T21:40:50Z"
+        },
+        {
+            "timestamp": "2016-06-25T17:09:39Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        0.133212,
+                        52.215941
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Cambridge",
+                    "country": "United Kingdom",
+                    "address": "Chesterton Road"
+                }
+            },
+            "created": "2016-06-25T21:43:34Z"
+        },
+        {
+            "timestamp": "2016-06-25T13:38:54Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        0.133214,
+                        52.215943
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Cambridge",
+                    "country": "United Kingdom",
+                    "address": "Chesterton Road"
+                }
+            },
+            "created": "2016-06-25T21:28:38Z"
+        },
+        {
+            "timestamp": "2016-06-25T13:59:25Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        0.1282,
+                        52.214509
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Cambridge",
+                    "country": "United Kingdom",
+                    "address": "Ferry Path"
+                }
+            },
+            "created": "2016-06-25T21:30:13Z"
+        },
+        {
+            "timestamp": "2016-06-25T15:48:27Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        0.133212,
+                        52.215943
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Cambridge",
+                    "country": "United Kingdom",
+                    "address": "Chesterton Road"
+                }
+            },
+            "created": "2016-06-25T21:40:42Z"
+        },
+        {
+            "timestamp": "2016-06-25T17:30:08Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        0.133217,
+                        52.215945
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Cambridge",
+                    "country": "United Kingdom",
+                    "address": "Chesterton Road"
+                }
+            },
+            "created": "2016-06-25T21:45:01Z"
+        },
+        {
+            "timestamp": "2016-06-25T16:29:26Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        0.133212,
+                        52.215943
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Cambridge",
+                    "country": "United Kingdom",
+                    "address": "Chesterton Road"
+                }
+            },
+            "created": "2016-06-25T21:41:12Z"
+        },
+        {
+            "timestamp": "2016-06-25T17:50:39Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        0.133216,
+                        52.215945
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Cambridge",
+                    "country": "United Kingdom",
+                    "address": "Chesterton Road"
+                }
+            },
+            "created": "2016-06-25T21:46:30Z"
+        },
+        {
+            "timestamp": "2016-06-25T15:21:23Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        0.130384,
+                        52.210011
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Cambridge",
+                    "country": "United Kingdom",
+                    "address": "North Terrace"
+                }
+            },
+            "created": "2016-06-25T21:41:43Z"
+        },
+        {
+            "timestamp": "2016-06-25T14:40:23Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        0.126052,
+                        52.201437
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Cambridge",
+                    "country": "United Kingdom",
+                    "address": "Regent Terrace"
+                }
+            },
+            "created": "2016-06-25T21:33:01Z"
+        },
+        {
+            "timestamp": "2016-06-25T15:00:53Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        0.126041,
+                        52.20144
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Cambridge",
+                    "country": "United Kingdom",
+                    "address": "Regent Terrace"
+                }
+            },
+            "created": "2016-06-25T21:41:34Z"
+        },
+        {
+            "timestamp": "2016-06-25T16:08:57Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        0.133213,
+                        52.215943
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Cambridge",
+                    "country": "United Kingdom",
+                    "address": "Chesterton Road"
+                }
+            },
+            "created": "2016-06-25T21:41:45Z"
+        },
+        {
+            "timestamp": "2016-06-25T18:11:08Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        0.133215,
+                        52.215944
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Cambridge",
+                    "country": "United Kingdom",
+                    "address": "Chesterton Road"
+                }
+            },
+            "created": "2016-06-25T21:47:50Z"
+        },
+        {
+            "timestamp": "2016-06-25T14:19:54Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        0.121805,
+                        52.207239
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Cambridge",
+                    "country": "United Kingdom",
+                    "address": "King Street"
+                }
+            },
+            "created": "2016-06-25T21:31:47Z"
+        }
+    ],
+    "next": null
+}

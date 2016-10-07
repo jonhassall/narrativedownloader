@@ -1,0 +1,66 @@
+{
+    "previous": null,
+    "results": [
+        {
+            "timestamp": "2016-08-07T19:45:13Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.147064,
+                        52.921595
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Rugby Road"
+                }
+            },
+            "created": "2016-08-07T20:55:05Z"
+        },
+        {
+            "timestamp": "2016-08-07T20:05:19Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.144305,
+                        52.921049
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Greythorn Drive"
+                }
+            },
+            "created": "2016-08-07T20:57:23Z"
+        },
+        {
+            "timestamp": "2016-08-07T19:44:04Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.14565,
+                        52.921226
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Rugby Road"
+                }
+            },
+            "created": "2016-08-08T10:46:59Z"
+        }
+    ],
+    "next": null
+}

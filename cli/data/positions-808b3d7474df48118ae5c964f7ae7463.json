@@ -1,0 +1,46 @@
+{
+    "previous": null,
+    "results": [
+        {
+            "timestamp": "2016-02-29T01:52:29Z",
+            "camera_uuid": "8e4fe98caa7d4ed6841cfc9cb54e255d",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -98.22761,
+                        26.228015
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "McAllen",
+                    "country": "United States",
+                    "address": "Whitewing Ave"
+                }
+            },
+            "created": "2016-04-19T10:48:10Z"
+        },
+        {
+            "timestamp": "2016-02-29T01:52:41Z",
+            "camera_uuid": "8e4fe98caa7d4ed6841cfc9cb54e255d",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -98.227953,
+                        26.227541
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "McAllen",
+                    "country": "United States",
+                    "address": "N 12th St"
+                }
+            },
+            "created": "2016-04-19T10:48:09Z"
+        }
+    ],
+    "next": null
+}

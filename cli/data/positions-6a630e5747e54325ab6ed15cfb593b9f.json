@@ -1,0 +1,86 @@
+{
+    "previous": null,
+    "results": [
+        {
+            "timestamp": "2016-05-21T23:21:21Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.143521,
+                        52.953354
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Stoney Street"
+                }
+            },
+            "created": "2016-05-21T23:40:15Z"
+        },
+        {
+            "timestamp": "2016-05-21T23:01:18Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.130395,
+                        53.001514
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "High Street"
+                }
+            },
+            "created": "2016-05-21T23:39:05Z"
+        },
+        {
+            "timestamp": "2016-05-21T23:00:31Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.136479,
+                        52.999748
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Sir John Robinson Way"
+                }
+            },
+            "created": "2016-05-30T06:37:42Z"
+        },
+        {
+            "timestamp": "2016-05-21T22:41:17Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.146787,
+                        52.957315
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Glasshouse Street"
+                }
+            },
+            "created": "2016-05-21T23:37:42Z"
+        }
+    ],
+    "next": null
+}

@@ -1,0 +1,66 @@
+{
+    "previous": null,
+    "results": [
+        {
+            "timestamp": "2016-04-30T23:57:59Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.175151,
+                        52.993411
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Hucknall Road"
+                }
+            },
+            "created": "2016-05-01T03:51:51Z"
+        },
+        {
+            "timestamp": "2016-05-01T01:15:34Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.163284,
+                        52.977548
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Linette Close"
+                }
+            },
+            "created": "2016-05-01T03:58:11Z"
+        },
+        {
+            "timestamp": "2016-05-01T00:55:31Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.163281,
+                        52.977549
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Linette Close"
+                }
+            },
+            "created": "2016-05-01T03:54:54Z"
+        }
+    ],
+    "next": null
+}

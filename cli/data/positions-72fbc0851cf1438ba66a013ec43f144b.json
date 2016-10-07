@@ -1,0 +1,106 @@
+{
+    "previous": null,
+    "results": [
+        {
+            "timestamp": "2016-05-24T19:35:17Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.163279,
+                        52.97755
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Linette Close"
+                }
+            },
+            "created": "2016-05-24T21:07:43Z"
+        },
+        {
+            "timestamp": "2016-05-24T18:55:07Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.232637,
+                        52.946123
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Bramcote Lane"
+                }
+            },
+            "created": "2016-05-24T21:02:34Z"
+        },
+        {
+            "timestamp": "2016-05-24T19:55:22Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.16328,
+                        52.97755
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Linette Close"
+                }
+            },
+            "created": "2016-05-24T21:10:12Z"
+        },
+        {
+            "timestamp": "2016-05-24T18:35:04Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.15654,
+                        52.978493
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Hucknall Road"
+                }
+            },
+            "created": "2016-05-24T21:00:05Z"
+        },
+        {
+            "timestamp": "2016-05-24T19:15:12Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.165305,
+                        52.977322
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Haydn Road"
+                }
+            },
+            "created": "2016-05-24T21:04:54Z"
+        }
+    ],
+    "next": null
+}

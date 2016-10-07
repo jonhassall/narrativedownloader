@@ -1,0 +1,126 @@
+{
+    "previous": null,
+    "results": [
+        {
+            "timestamp": "2016-05-01T02:40:18Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.163279,
+                        52.97755
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Linette Close"
+                }
+            },
+            "created": "2016-05-01T08:03:30Z"
+        },
+        {
+            "timestamp": "2016-05-01T01:35:36Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.163282,
+                        52.977548
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Linette Close"
+                }
+            },
+            "created": "2016-05-01T07:52:22Z"
+        },
+        {
+            "timestamp": "2016-05-01T01:55:39Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.163282,
+                        52.977548
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Linette Close"
+                }
+            },
+            "created": "2016-05-01T07:56:00Z"
+        },
+        {
+            "timestamp": "2016-05-01T03:00:20Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.163281,
+                        52.977549
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Linette Close"
+                }
+            },
+            "created": "2016-05-01T08:06:32Z"
+        },
+        {
+            "timestamp": "2016-05-01T02:20:15Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.16328,
+                        52.97755
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Linette Close"
+                }
+            },
+            "created": "2016-05-01T07:58:48Z"
+        },
+        {
+            "timestamp": "2016-05-01T03:20:30Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.163283,
+                        52.977548
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Linette Close"
+                }
+            },
+            "created": "2016-05-01T08:10:11Z"
+        }
+    ],
+    "next": null
+}

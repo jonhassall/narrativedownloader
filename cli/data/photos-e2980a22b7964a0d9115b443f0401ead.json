@@ -1,0 +1,3374 @@
+{
+    "count": 91,
+    "previous": null,
+    "results": [
+        {
+            "trim": true,
+            "uuid": "f3c2c37ca5354bb08312ffedd97df982",
+            "tags": [],
+            "url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/f3c2c37ca5354bb08312ffedd97df982\/",
+            "faces": [],
+            "favorite": false,
+            "quality_score": 3.2610485439,
+            "faces_url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/f3c2c37ca5354bb08312ffedd97df982\/faces\/",
+            "moment_uuid": "e2980a22b7964a0d9115b443f0401ead",
+            "favorited_time": null,
+            "renders": {
+                "g1_hd": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_hd\/f3c2c37ca5354bb08312ffedd97df982.jpg",
+                    "size": {
+                        "width": 1597,
+                        "height": 2129
+                    }
+                },
+                "g1_thumb_square": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_thumb_square\/f3c2c37ca5354bb08312ffedd97df982.jpg",
+                    "size": {
+                        "width": 160,
+                        "height": 160
+                    }
+                },
+                "g1_smartphone": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_smartphone\/f3c2c37ca5354bb08312ffedd97df982.jpg",
+                    "size": {
+                        "width": 640,
+                        "height": 853
+                    }
+                }
+            },
+            "taken_at_local": "2016-02-20T23:58:20-06:00",
+            "type": "photo"
+        },
+        {
+            "trim": true,
+            "uuid": "785d392efadd4766a95305c1c333fabc",
+            "tags": [],
+            "url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/785d392efadd4766a95305c1c333fabc\/",
+            "faces": [],
+            "favorite": false,
+            "quality_score": 3.3591919612,
+            "faces_url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/785d392efadd4766a95305c1c333fabc\/faces\/",
+            "moment_uuid": "e2980a22b7964a0d9115b443f0401ead",
+            "favorited_time": null,
+            "renders": {
+                "g1_hd": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_hd\/785d392efadd4766a95305c1c333fabc.jpg",
+                    "size": {
+                        "width": 2448,
+                        "height": 3264
+                    }
+                },
+                "g1_thumb_square": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_thumb_square\/785d392efadd4766a95305c1c333fabc.jpg",
+                    "size": {
+                        "width": 160,
+                        "height": 160
+                    }
+                },
+                "g1_smartphone": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_smartphone\/785d392efadd4766a95305c1c333fabc.jpg",
+                    "size": {
+                        "width": 640,
+                        "height": 853
+                    }
+                }
+            },
+            "taken_at_local": "2016-02-20T23:58:52-06:00",
+            "type": "photo"
+        },
+        {
+            "trim": false,
+            "uuid": "4103a6b0abf04d159ebf4d2661b557c0",
+            "tags": [],
+            "url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/4103a6b0abf04d159ebf4d2661b557c0\/",
+            "faces": [],
+            "favorite": false,
+            "quality_score": 3.0034669679,
+            "faces_url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/4103a6b0abf04d159ebf4d2661b557c0\/faces\/",
+            "moment_uuid": "e2980a22b7964a0d9115b443f0401ead",
+            "favorited_time": null,
+            "renders": {
+                "g1_hd": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_hd\/4103a6b0abf04d159ebf4d2661b557c0.jpg",
+                    "size": {
+                        "width": 2448,
+                        "height": 3264
+                    }
+                },
+                "g1_thumb_square": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_thumb_square\/4103a6b0abf04d159ebf4d2661b557c0.jpg",
+                    "size": {
+                        "width": 160,
+                        "height": 160
+                    }
+                },
+                "g1_smartphone": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_smartphone\/4103a6b0abf04d159ebf4d2661b557c0.jpg",
+                    "size": {
+                        "width": 640,
+                        "height": 853
+                    }
+                }
+            },
+            "taken_at_local": "2016-02-20T23:59:24-06:00",
+            "type": "photo"
+        },
+        {
+            "trim": false,
+            "uuid": "0d6e1809b0024ce2918281d723f78c0b",
+            "tags": [],
+            "url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/0d6e1809b0024ce2918281d723f78c0b\/",
+            "faces": [],
+            "favorite": false,
+            "quality_score": 2.7579175528,
+            "faces_url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/0d6e1809b0024ce2918281d723f78c0b\/faces\/",
+            "moment_uuid": "e2980a22b7964a0d9115b443f0401ead",
+            "favorited_time": null,
+            "renders": {
+                "g1_hd": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_hd\/0d6e1809b0024ce2918281d723f78c0b.jpg",
+                    "size": {
+                        "width": 2448,
+                        "height": 3264
+                    }
+                },
+                "g1_thumb_square": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_thumb_square\/0d6e1809b0024ce2918281d723f78c0b.jpg",
+                    "size": {
+                        "width": 160,
+                        "height": 160
+                    }
+                },
+                "g1_smartphone": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_smartphone\/0d6e1809b0024ce2918281d723f78c0b.jpg",
+                    "size": {
+                        "width": 640,
+                        "height": 853
+                    }
+                }
+            },
+            "taken_at_local": "2016-02-20T23:59:56-06:00",
+            "type": "photo"
+        },
+        {
+            "trim": false,
+            "uuid": "5591d8511bc149d692fbcab9f6bacc47",
+            "tags": [],
+            "url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/5591d8511bc149d692fbcab9f6bacc47\/",
+            "faces": [],
+            "favorite": false,
+            "quality_score": 2.8405588438,
+            "faces_url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/5591d8511bc149d692fbcab9f6bacc47\/faces\/",
+            "moment_uuid": "e2980a22b7964a0d9115b443f0401ead",
+            "favorited_time": null,
+            "renders": {
+                "g1_hd": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_hd\/5591d8511bc149d692fbcab9f6bacc47.jpg",
+                    "size": {
+                        "width": 2448,
+                        "height": 3264
+                    }
+                },
+                "g1_thumb_square": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_thumb_square\/5591d8511bc149d692fbcab9f6bacc47.jpg",
+                    "size": {
+                        "width": 160,
+                        "height": 160
+                    }
+                },
+                "g1_smartphone": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_smartphone\/5591d8511bc149d692fbcab9f6bacc47.jpg",
+                    "size": {
+                        "width": 640,
+                        "height": 853
+                    }
+                }
+            },
+            "taken_at_local": "2016-02-21T00:00:28-06:00",
+            "type": "photo"
+        },
+        {
+            "trim": false,
+            "uuid": "08153c2e341740edb75100ea536b0e8a",
+            "tags": [],
+            "url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/08153c2e341740edb75100ea536b0e8a\/",
+            "faces": [],
+            "favorite": false,
+            "quality_score": 3.2002634871,
+            "faces_url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/08153c2e341740edb75100ea536b0e8a\/faces\/",
+            "moment_uuid": "e2980a22b7964a0d9115b443f0401ead",
+            "favorited_time": null,
+            "renders": {
+                "g1_hd": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_hd\/08153c2e341740edb75100ea536b0e8a.jpg",
+                    "size": {
+                        "width": 2066,
+                        "height": 2755
+                    }
+                },
+                "g1_thumb_square": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_thumb_square\/08153c2e341740edb75100ea536b0e8a.jpg",
+                    "size": {
+                        "width": 160,
+                        "height": 160
+                    }
+                },
+                "g1_smartphone": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_smartphone\/08153c2e341740edb75100ea536b0e8a.jpg",
+                    "size": {
+                        "width": 640,
+                        "height": 853
+                    }
+                }
+            },
+            "taken_at_local": "2016-02-21T00:01:00-06:00",
+            "type": "photo"
+        },
+        {
+            "trim": false,
+            "uuid": "7b544f927e124ffdbd89f03b60dc0078",
+            "tags": [],
+            "url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/7b544f927e124ffdbd89f03b60dc0078\/",
+            "faces": [],
+            "favorite": false,
+            "quality_score": 3.1388113732,
+            "faces_url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/7b544f927e124ffdbd89f03b60dc0078\/faces\/",
+            "moment_uuid": "e2980a22b7964a0d9115b443f0401ead",
+            "favorited_time": null,
+            "renders": {
+                "g1_hd": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_hd\/7b544f927e124ffdbd89f03b60dc0078.jpg",
+                    "size": {
+                        "width": 2448,
+                        "height": 3264
+                    }
+                },
+                "g1_thumb_square": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_thumb_square\/7b544f927e124ffdbd89f03b60dc0078.jpg",
+                    "size": {
+                        "width": 160,
+                        "height": 160
+                    }
+                },
+                "g1_smartphone": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_smartphone\/7b544f927e124ffdbd89f03b60dc0078.jpg",
+                    "size": {
+                        "width": 640,
+                        "height": 853
+                    }
+                }
+            },
+            "taken_at_local": "2016-02-21T00:01:32-06:00",
+            "type": "photo"
+        },
+        {
+            "trim": false,
+            "uuid": "22c1d2948ead463792954a0f68a5fdd1",
+            "tags": [],
+            "url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/22c1d2948ead463792954a0f68a5fdd1\/",
+            "faces": [],
+            "favorite": false,
+            "quality_score": 2.9526829749,
+            "faces_url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/22c1d2948ead463792954a0f68a5fdd1\/faces\/",
+            "moment_uuid": "e2980a22b7964a0d9115b443f0401ead",
+            "favorited_time": null,
+            "renders": {
+                "g1_hd": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_hd\/22c1d2948ead463792954a0f68a5fdd1.jpg",
+                    "size": {
+                        "width": 2448,
+                        "height": 3264
+                    }
+                },
+                "g1_thumb_square": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_thumb_square\/22c1d2948ead463792954a0f68a5fdd1.jpg",
+                    "size": {
+                        "width": 160,
+                        "height": 160
+                    }
+                },
+                "g1_smartphone": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_smartphone\/22c1d2948ead463792954a0f68a5fdd1.jpg",
+                    "size": {
+                        "width": 640,
+                        "height": 853
+                    }
+                }
+            },
+            "taken_at_local": "2016-02-21T00:02:04-06:00",
+            "type": "photo"
+        },
+        {
+            "trim": false,
+            "uuid": "253c509135cf4c8c995b9b8d3452980a",
+            "tags": [],
+            "url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/253c509135cf4c8c995b9b8d3452980a\/",
+            "faces": [],
+            "favorite": false,
+            "quality_score": 3.0792364224,
+            "faces_url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/253c509135cf4c8c995b9b8d3452980a\/faces\/",
+            "moment_uuid": "e2980a22b7964a0d9115b443f0401ead",
+            "favorited_time": null,
+            "renders": {
+                "g1_hd": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_hd\/253c509135cf4c8c995b9b8d3452980a.jpg",
+                    "size": {
+                        "width": 2448,
+                        "height": 3264
+                    }
+                },
+                "g1_thumb_square": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_thumb_square\/253c509135cf4c8c995b9b8d3452980a.jpg",
+                    "size": {
+                        "width": 160,
+                        "height": 160
+                    }
+                },
+                "g1_smartphone": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_smartphone\/253c509135cf4c8c995b9b8d3452980a.jpg",
+                    "size": {
+                        "width": 640,
+                        "height": 853
+                    }
+                }
+            },
+            "taken_at_local": "2016-02-21T00:02:36-06:00",
+            "type": "photo"
+        },
+        {
+            "trim": false,
+            "uuid": "a4ca84cb43d844e49eceb54061e8cf3a",
+            "tags": [],
+            "url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/a4ca84cb43d844e49eceb54061e8cf3a\/",
+            "faces": [],
+            "favorite": false,
+            "quality_score": 3.1203988737,
+            "faces_url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/a4ca84cb43d844e49eceb54061e8cf3a\/faces\/",
+            "moment_uuid": "e2980a22b7964a0d9115b443f0401ead",
+            "favorited_time": null,
+            "renders": {
+                "g1_hd": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_hd\/a4ca84cb43d844e49eceb54061e8cf3a.jpg",
+                    "size": {
+                        "width": 2448,
+                        "height": 3264
+                    }
+                },
+                "g1_thumb_square": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_thumb_square\/a4ca84cb43d844e49eceb54061e8cf3a.jpg",
+                    "size": {
+                        "width": 160,
+                        "height": 160
+                    }
+                },
+                "g1_smartphone": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_smartphone\/a4ca84cb43d844e49eceb54061e8cf3a.jpg",
+                    "size": {
+                        "width": 640,
+                        "height": 853
+                    }
+                }
+            },
+            "taken_at_local": "2016-02-21T00:03:08-06:00",
+            "type": "photo"
+        },
+        {
+            "trim": false,
+            "uuid": "40d467dabe4948baa484b499e19c037f",
+            "tags": [],
+            "url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/40d467dabe4948baa484b499e19c037f\/",
+            "faces": [],
+            "favorite": false,
+            "quality_score": 2.1428886515,
+            "faces_url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/40d467dabe4948baa484b499e19c037f\/faces\/",
+            "moment_uuid": "e2980a22b7964a0d9115b443f0401ead",
+            "favorited_time": null,
+            "renders": {
+                "g1_hd": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_hd\/40d467dabe4948baa484b499e19c037f.jpg",
+                    "size": {
+                        "width": 1804,
+                        "height": 2405
+                    }
+                },
+                "g1_thumb_square": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_thumb_square\/40d467dabe4948baa484b499e19c037f.jpg",
+                    "size": {
+                        "width": 160,
+                        "height": 160
+                    }
+                },
+                "g1_smartphone": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_smartphone\/40d467dabe4948baa484b499e19c037f.jpg",
+                    "size": {
+                        "width": 640,
+                        "height": 853
+                    }
+                }
+            },
+            "taken_at_local": "2016-02-21T00:03:40-06:00",
+            "type": "photo"
+        },
+        {
+            "trim": true,
+            "uuid": "77e653820a4d418c9890b9336ab305b7",
+            "tags": [],
+            "url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/77e653820a4d418c9890b9336ab305b7\/",
+            "faces": [],
+            "favorite": false,
+            "quality_score": 3.3116357701,
+            "faces_url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/77e653820a4d418c9890b9336ab305b7\/faces\/",
+            "moment_uuid": "e2980a22b7964a0d9115b443f0401ead",
+            "favorited_time": null,
+            "renders": {
+                "g1_hd": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_hd\/77e653820a4d418c9890b9336ab305b7.jpg",
+                    "size": {
+                        "width": 2448,
+                        "height": 3264
+                    }
+                },
+                "g1_thumb_square": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_thumb_square\/77e653820a4d418c9890b9336ab305b7.jpg",
+                    "size": {
+                        "width": 160,
+                        "height": 160
+                    }
+                },
+                "g1_smartphone": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_smartphone\/77e653820a4d418c9890b9336ab305b7.jpg",
+                    "size": {
+                        "width": 640,
+                        "height": 853
+                    }
+                }
+            },
+            "taken_at_local": "2016-02-21T00:04:12-06:00",
+            "type": "photo"
+        },
+        {
+            "trim": false,
+            "uuid": "df508a34899f4e3e8f9ea8a254b01e65",
+            "tags": [],
+            "url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/df508a34899f4e3e8f9ea8a254b01e65\/",
+            "faces": [],
+            "favorite": false,
+            "quality_score": 2.5078770159,
+            "faces_url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/df508a34899f4e3e8f9ea8a254b01e65\/faces\/",
+            "moment_uuid": "e2980a22b7964a0d9115b443f0401ead",
+            "favorited_time": null,
+            "renders": {
+                "g1_hd": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_hd\/df508a34899f4e3e8f9ea8a254b01e65.jpg",
+                    "size": {
+                        "width": 1771,
+                        "height": 2361
+                    }
+                },
+                "g1_thumb_square": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_thumb_square\/df508a34899f4e3e8f9ea8a254b01e65.jpg",
+                    "size": {
+                        "width": 160,
+                        "height": 160
+                    }
+                },
+                "g1_smartphone": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_smartphone\/df508a34899f4e3e8f9ea8a254b01e65.jpg",
+                    "size": {
+                        "width": 640,
+                        "height": 853
+                    }
+                }
+            },
+            "taken_at_local": "2016-02-21T00:04:44-06:00",
+            "type": "photo"
+        },
+        {
+            "trim": false,
+            "uuid": "97081a4785ed42ddbbcf57679e69bc1c",
+            "tags": [],
+            "url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/97081a4785ed42ddbbcf57679e69bc1c\/",
+            "faces": [],
+            "favorite": false,
+            "quality_score": 2.282606696,
+            "faces_url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/97081a4785ed42ddbbcf57679e69bc1c\/faces\/",
+            "moment_uuid": "e2980a22b7964a0d9115b443f0401ead",
+            "favorited_time": null,
+            "renders": {
+                "g1_hd": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_hd\/97081a4785ed42ddbbcf57679e69bc1c.jpg",
+                    "size": {
+                        "width": 2177,
+                        "height": 2903
+                    }
+                },
+                "g1_thumb_square": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_thumb_square\/97081a4785ed42ddbbcf57679e69bc1c.jpg",
+                    "size": {
+                        "width": 160,
+                        "height": 160
+                    }
+                },
+                "g1_smartphone": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_smartphone\/97081a4785ed42ddbbcf57679e69bc1c.jpg",
+                    "size": {
+                        "width": 640,
+                        "height": 853
+                    }
+                }
+            },
+            "taken_at_local": "2016-02-21T00:05:16-06:00",
+            "type": "photo"
+        },
+        {
+            "trim": false,
+            "uuid": "a28e0a44be5a4118ad27f71dc91acfac",
+            "tags": [],
+            "url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/a28e0a44be5a4118ad27f71dc91acfac\/",
+            "faces": [],
+            "favorite": false,
+            "quality_score": 3.1398052436,
+            "faces_url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/a28e0a44be5a4118ad27f71dc91acfac\/faces\/",
+            "moment_uuid": "e2980a22b7964a0d9115b443f0401ead",
+            "favorited_time": null,
+            "renders": {
+                "g1_hd": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_hd\/a28e0a44be5a4118ad27f71dc91acfac.jpg",
+                    "size": {
+                        "width": 2448,
+                        "height": 3264
+                    }
+                },
+                "g1_thumb_square": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_thumb_square\/a28e0a44be5a4118ad27f71dc91acfac.jpg",
+                    "size": {
+                        "width": 160,
+                        "height": 160
+                    }
+                },
+                "g1_smartphone": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_smartphone\/a28e0a44be5a4118ad27f71dc91acfac.jpg",
+                    "size": {
+                        "width": 640,
+                        "height": 853
+                    }
+                }
+            },
+            "taken_at_local": "2016-02-21T00:05:49-06:00",
+            "type": "photo"
+        },
+        {
+            "trim": true,
+            "uuid": "1b437368cf6345e3916ed1ea2901545c",
+            "tags": [],
+            "url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/1b437368cf6345e3916ed1ea2901545c\/",
+            "faces": [],
+            "favorite": false,
+            "quality_score": 3.3242991867,
+            "faces_url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/1b437368cf6345e3916ed1ea2901545c\/faces\/",
+            "moment_uuid": "e2980a22b7964a0d9115b443f0401ead",
+            "favorited_time": null,
+            "renders": {
+                "g1_hd": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_hd\/1b437368cf6345e3916ed1ea2901545c.jpg",
+                    "size": {
+                        "width": 2448,
+                        "height": 3264
+                    }
+                },
+                "g1_thumb_square": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_thumb_square\/1b437368cf6345e3916ed1ea2901545c.jpg",
+                    "size": {
+                        "width": 160,
+                        "height": 160
+                    }
+                },
+                "g1_smartphone": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_smartphone\/1b437368cf6345e3916ed1ea2901545c.jpg",
+                    "size": {
+                        "width": 640,
+                        "height": 853
+                    }
+                }
+            },
+            "taken_at_local": "2016-02-21T00:06:21-06:00",
+            "type": "photo"
+        },
+        {
+            "trim": false,
+            "uuid": "45d06d8dd15d467fb3667b6c826a5d83",
+            "tags": [],
+            "url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/45d06d8dd15d467fb3667b6c826a5d83\/",
+            "faces": [],
+            "favorite": false,
+            "quality_score": 3.0536370146,
+            "faces_url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/45d06d8dd15d467fb3667b6c826a5d83\/faces\/",
+            "moment_uuid": "e2980a22b7964a0d9115b443f0401ead",
+            "favorited_time": null,
+            "renders": {
+                "g1_hd": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_hd\/45d06d8dd15d467fb3667b6c826a5d83.jpg",
+                    "size": {
+                        "width": 2090,
+                        "height": 2787
+                    }
+                },
+                "g1_thumb_square": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_thumb_square\/45d06d8dd15d467fb3667b6c826a5d83.jpg",
+                    "size": {
+                        "width": 160,
+                        "height": 160
+                    }
+                },
+                "g1_smartphone": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_smartphone\/45d06d8dd15d467fb3667b6c826a5d83.jpg",
+                    "size": {
+                        "width": 640,
+                        "height": 853
+                    }
+                }
+            },
+            "taken_at_local": "2016-02-21T00:06:53-06:00",
+            "type": "photo"
+        },
+        {
+            "trim": false,
+            "uuid": "4765fa59a29941e7af6a5eeafe8c9f6b",
+            "tags": [],
+            "url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/4765fa59a29941e7af6a5eeafe8c9f6b\/",
+            "faces": [],
+            "favorite": false,
+            "quality_score": 3.2217256949,
+            "faces_url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/4765fa59a29941e7af6a5eeafe8c9f6b\/faces\/",
+            "moment_uuid": "e2980a22b7964a0d9115b443f0401ead",
+            "favorited_time": null,
+            "renders": {
+                "g1_hd": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_hd\/4765fa59a29941e7af6a5eeafe8c9f6b.jpg",
+                    "size": {
+                        "width": 2198,
+                        "height": 2931
+                    }
+                },
+                "g1_thumb_square": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_thumb_square\/4765fa59a29941e7af6a5eeafe8c9f6b.jpg",
+                    "size": {
+                        "width": 160,
+                        "height": 160
+                    }
+                },
+                "g1_smartphone": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_smartphone\/4765fa59a29941e7af6a5eeafe8c9f6b.jpg",
+                    "size": {
+                        "width": 640,
+                        "height": 853
+                    }
+                }
+            },
+            "taken_at_local": "2016-02-21T00:07:25-06:00",
+            "type": "photo"
+        },
+        {
+            "trim": true,
+            "uuid": "49fcf5879c3540838361e14a3bcfd361",
+            "tags": [],
+            "url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/49fcf5879c3540838361e14a3bcfd361\/",
+            "faces": [],
+            "favorite": false,
+            "quality_score": 3.2957122347,
+            "faces_url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/49fcf5879c3540838361e14a3bcfd361\/faces\/",
+            "moment_uuid": "e2980a22b7964a0d9115b443f0401ead",
+            "favorited_time": null,
+            "renders": {
+                "g1_hd": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_hd\/49fcf5879c3540838361e14a3bcfd361.jpg",
+                    "size": {
+                        "width": 2448,
+                        "height": 3264
+                    }
+                },
+                "g1_thumb_square": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_thumb_square\/49fcf5879c3540838361e14a3bcfd361.jpg",
+                    "size": {
+                        "width": 160,
+                        "height": 160
+                    }
+                },
+                "g1_smartphone": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_smartphone\/49fcf5879c3540838361e14a3bcfd361.jpg",
+                    "size": {
+                        "width": 640,
+                        "height": 853
+                    }
+                }
+            },
+            "taken_at_local": "2016-02-21T00:07:57-06:00",
+            "type": "photo"
+        },
+        {
+            "trim": false,
+            "uuid": "08dda839f3974c348c5c8c0f4adc1ef4",
+            "tags": [],
+            "url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/08dda839f3974c348c5c8c0f4adc1ef4\/",
+            "faces": [],
+            "favorite": false,
+            "quality_score": 3.1564815084,
+            "faces_url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/08dda839f3974c348c5c8c0f4adc1ef4\/faces\/",
+            "moment_uuid": "e2980a22b7964a0d9115b443f0401ead",
+            "favorited_time": null,
+            "renders": {
+                "g1_hd": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_hd\/08dda839f3974c348c5c8c0f4adc1ef4.jpg",
+                    "size": {
+                        "width": 2195,
+                        "height": 2927
+                    }
+                },
+                "g1_thumb_square": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_thumb_square\/08dda839f3974c348c5c8c0f4adc1ef4.jpg",
+                    "size": {
+                        "width": 160,
+                        "height": 160
+                    }
+                },
+                "g1_smartphone": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_smartphone\/08dda839f3974c348c5c8c0f4adc1ef4.jpg",
+                    "size": {
+                        "width": 640,
+                        "height": 853
+                    }
+                }
+            },
+            "taken_at_local": "2016-02-21T00:08:29-06:00",
+            "type": "photo"
+        },
+        {
+            "trim": false,
+            "uuid": "adea5d9c5ba74aeb8de709b89080e0bb",
+            "tags": [],
+            "url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/adea5d9c5ba74aeb8de709b89080e0bb\/",
+            "faces": [],
+            "favorite": false,
+            "quality_score": 2.3172351414,
+            "faces_url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/adea5d9c5ba74aeb8de709b89080e0bb\/faces\/",
+            "moment_uuid": "e2980a22b7964a0d9115b443f0401ead",
+            "favorited_time": null,
+            "renders": {
+                "g1_hd": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_hd\/adea5d9c5ba74aeb8de709b89080e0bb.jpg",
+                    "size": {
+                        "width": 2175,
+                        "height": 2900
+                    }
+                },
+                "g1_thumb_square": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_thumb_square\/adea5d9c5ba74aeb8de709b89080e0bb.jpg",
+                    "size": {
+                        "width": 160,
+                        "height": 160
+                    }
+                },
+                "g1_smartphone": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_smartphone\/adea5d9c5ba74aeb8de709b89080e0bb.jpg",
+                    "size": {
+                        "width": 640,
+                        "height": 853
+                    }
+                }
+            },
+            "taken_at_local": "2016-02-21T00:09:33-06:00",
+            "type": "photo"
+        },
+        {
+            "trim": false,
+            "uuid": "9261b027fbbc4ece903eb257547809a1",
+            "tags": [],
+            "url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/9261b027fbbc4ece903eb257547809a1\/",
+            "faces": [],
+            "favorite": false,
+            "quality_score": 2.8890644274,
+            "faces_url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/9261b027fbbc4ece903eb257547809a1\/faces\/",
+            "moment_uuid": "e2980a22b7964a0d9115b443f0401ead",
+            "favorited_time": null,
+            "renders": {
+                "g1_hd": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_hd\/9261b027fbbc4ece903eb257547809a1.jpg",
+                    "size": {
+                        "width": 2127,
+                        "height": 2836
+                    }
+                },
+                "g1_thumb_square": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_thumb_square\/9261b027fbbc4ece903eb257547809a1.jpg",
+                    "size": {
+                        "width": 160,
+                        "height": 160
+                    }
+                },
+                "g1_smartphone": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_smartphone\/9261b027fbbc4ece903eb257547809a1.jpg",
+                    "size": {
+                        "width": 640,
+                        "height": 853
+                    }
+                }
+            },
+            "taken_at_local": "2016-02-21T00:10:05-06:00",
+            "type": "photo"
+        },
+        {
+            "trim": false,
+            "uuid": "3cba6b9aff8a4a2fb2fbb6f0de01a102",
+            "tags": [],
+            "url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/3cba6b9aff8a4a2fb2fbb6f0de01a102\/",
+            "faces": [],
+            "favorite": false,
+            "quality_score": 2.0863509739,
+            "faces_url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/3cba6b9aff8a4a2fb2fbb6f0de01a102\/faces\/",
+            "moment_uuid": "e2980a22b7964a0d9115b443f0401ead",
+            "favorited_time": null,
+            "renders": {
+                "g1_hd": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_hd\/3cba6b9aff8a4a2fb2fbb6f0de01a102.jpg",
+                    "size": {
+                        "width": 2448,
+                        "height": 3264
+                    }
+                },
+                "g1_thumb_square": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_thumb_square\/3cba6b9aff8a4a2fb2fbb6f0de01a102.jpg",
+                    "size": {
+                        "width": 160,
+                        "height": 160
+                    }
+                },
+                "g1_smartphone": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_smartphone\/3cba6b9aff8a4a2fb2fbb6f0de01a102.jpg",
+                    "size": {
+                        "width": 640,
+                        "height": 853
+                    }
+                }
+            },
+            "taken_at_local": "2016-02-21T00:10:37-06:00",
+            "type": "photo"
+        },
+        {
+            "trim": false,
+            "uuid": "4899a9e398364dccbd1ef4b55ce7848b",
+            "tags": [],
+            "url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/4899a9e398364dccbd1ef4b55ce7848b\/",
+            "faces": [],
+            "favorite": false,
+            "quality_score": 2.9836129994,
+            "faces_url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/4899a9e398364dccbd1ef4b55ce7848b\/faces\/",
+            "moment_uuid": "e2980a22b7964a0d9115b443f0401ead",
+            "favorited_time": null,
+            "renders": {
+                "g1_hd": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_hd\/4899a9e398364dccbd1ef4b55ce7848b.jpg",
+                    "size": {
+                        "width": 2448,
+                        "height": 3264
+                    }
+                },
+                "g1_thumb_square": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_thumb_square\/4899a9e398364dccbd1ef4b55ce7848b.jpg",
+                    "size": {
+                        "width": 160,
+                        "height": 160
+                    }
+                },
+                "g1_smartphone": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_smartphone\/4899a9e398364dccbd1ef4b55ce7848b.jpg",
+                    "size": {
+                        "width": 640,
+                        "height": 853
+                    }
+                }
+            },
+            "taken_at_local": "2016-02-21T00:11:09-06:00",
+            "type": "photo"
+        },
+        {
+            "trim": false,
+            "uuid": "b96ae3474a9d458d807da63989cfcf69",
+            "tags": [],
+            "url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/b96ae3474a9d458d807da63989cfcf69\/",
+            "faces": [],
+            "favorite": false,
+            "quality_score": 3.1674264597,
+            "faces_url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/b96ae3474a9d458d807da63989cfcf69\/faces\/",
+            "moment_uuid": "e2980a22b7964a0d9115b443f0401ead",
+            "favorited_time": null,
+            "renders": {
+                "g1_hd": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_hd\/b96ae3474a9d458d807da63989cfcf69.jpg",
+                    "size": {
+                        "width": 2448,
+                        "height": 3264
+                    }
+                },
+                "g1_thumb_square": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_thumb_square\/b96ae3474a9d458d807da63989cfcf69.jpg",
+                    "size": {
+                        "width": 160,
+                        "height": 160
+                    }
+                },
+                "g1_smartphone": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_smartphone\/b96ae3474a9d458d807da63989cfcf69.jpg",
+                    "size": {
+                        "width": 640,
+                        "height": 853
+                    }
+                }
+            },
+            "taken_at_local": "2016-02-21T00:11:41-06:00",
+            "type": "photo"
+        },
+        {
+            "trim": true,
+            "uuid": "35a65120299b45e5bfdb9421fb9e51c7",
+            "tags": [],
+            "url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/35a65120299b45e5bfdb9421fb9e51c7\/",
+            "faces": [],
+            "favorite": false,
+            "quality_score": 3.3325309522,
+            "faces_url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/35a65120299b45e5bfdb9421fb9e51c7\/faces\/",
+            "moment_uuid": "e2980a22b7964a0d9115b443f0401ead",
+            "favorited_time": null,
+            "renders": {
+                "g1_hd": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_hd\/35a65120299b45e5bfdb9421fb9e51c7.jpg",
+                    "size": {
+                        "width": 2448,
+                        "height": 3264
+                    }
+                },
+                "g1_thumb_square": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_thumb_square\/35a65120299b45e5bfdb9421fb9e51c7.jpg",
+                    "size": {
+                        "width": 160,
+                        "height": 160
+                    }
+                },
+                "g1_smartphone": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_smartphone\/35a65120299b45e5bfdb9421fb9e51c7.jpg",
+                    "size": {
+                        "width": 640,
+                        "height": 853
+                    }
+                }
+            },
+            "taken_at_local": "2016-02-21T00:12:13-06:00",
+            "type": "photo"
+        },
+        {
+            "trim": false,
+            "uuid": "39d3d2eebd8947798c68ee4f577baabc",
+            "tags": [],
+            "url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/39d3d2eebd8947798c68ee4f577baabc\/",
+            "faces": [],
+            "favorite": false,
+            "quality_score": 3.1965276033,
+            "faces_url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/39d3d2eebd8947798c68ee4f577baabc\/faces\/",
+            "moment_uuid": "e2980a22b7964a0d9115b443f0401ead",
+            "favorited_time": null,
+            "renders": {
+                "g1_hd": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_hd\/39d3d2eebd8947798c68ee4f577baabc.jpg",
+                    "size": {
+                        "width": 2448,
+                        "height": 3264
+                    }
+                },
+                "g1_thumb_square": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_thumb_square\/39d3d2eebd8947798c68ee4f577baabc.jpg",
+                    "size": {
+                        "width": 160,
+                        "height": 160
+                    }
+                },
+                "g1_smartphone": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_smartphone\/39d3d2eebd8947798c68ee4f577baabc.jpg",
+                    "size": {
+                        "width": 640,
+                        "height": 853
+                    }
+                }
+            },
+            "taken_at_local": "2016-02-21T00:12:45-06:00",
+            "type": "photo"
+        },
+        {
+            "trim": false,
+            "uuid": "3b596a736a804bd3859d43a1a09f5ca6",
+            "tags": [],
+            "url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/3b596a736a804bd3859d43a1a09f5ca6\/",
+            "faces": [],
+            "favorite": false,
+            "quality_score": 2.6614582729,
+            "faces_url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/3b596a736a804bd3859d43a1a09f5ca6\/faces\/",
+            "moment_uuid": "e2980a22b7964a0d9115b443f0401ead",
+            "favorited_time": null,
+            "renders": {
+                "g1_hd": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_hd\/3b596a736a804bd3859d43a1a09f5ca6.jpg",
+                    "size": {
+                        "width": 2175,
+                        "height": 2900
+                    }
+                },
+                "g1_thumb_square": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_thumb_square\/3b596a736a804bd3859d43a1a09f5ca6.jpg",
+                    "size": {
+                        "width": 160,
+                        "height": 160
+                    }
+                },
+                "g1_smartphone": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_smartphone\/3b596a736a804bd3859d43a1a09f5ca6.jpg",
+                    "size": {
+                        "width": 640,
+                        "height": 853
+                    }
+                }
+            },
+            "taken_at_local": "2016-02-21T00:13:17-06:00",
+            "type": "photo"
+        },
+        {
+            "trim": false,
+            "uuid": "27779f0b55014c38898f4c96a6cf67df",
+            "tags": [],
+            "url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/27779f0b55014c38898f4c96a6cf67df\/",
+            "faces": [],
+            "favorite": false,
+            "quality_score": 2.651447331,
+            "faces_url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/27779f0b55014c38898f4c96a6cf67df\/faces\/",
+            "moment_uuid": "e2980a22b7964a0d9115b443f0401ead",
+            "favorited_time": null,
+            "renders": {
+                "g1_hd": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_hd\/27779f0b55014c38898f4c96a6cf67df.jpg",
+                    "size": {
+                        "width": 1550,
+                        "height": 2067
+                    }
+                },
+                "g1_thumb_square": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_thumb_square\/27779f0b55014c38898f4c96a6cf67df.jpg",
+                    "size": {
+                        "width": 160,
+                        "height": 160
+                    }
+                },
+                "g1_smartphone": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_smartphone\/27779f0b55014c38898f4c96a6cf67df.jpg",
+                    "size": {
+                        "width": 640,
+                        "height": 853
+                    }
+                }
+            },
+            "taken_at_local": "2016-02-21T00:13:49-06:00",
+            "type": "photo"
+        },
+        {
+            "trim": false,
+            "uuid": "e6359b19e04b4cb884b168fb5ecbc6f3",
+            "tags": [],
+            "url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/e6359b19e04b4cb884b168fb5ecbc6f3\/",
+            "faces": [],
+            "favorite": false,
+            "quality_score": 2.9357449394,
+            "faces_url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/e6359b19e04b4cb884b168fb5ecbc6f3\/faces\/",
+            "moment_uuid": "e2980a22b7964a0d9115b443f0401ead",
+            "favorited_time": null,
+            "renders": {
+                "g1_hd": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_hd\/e6359b19e04b4cb884b168fb5ecbc6f3.jpg",
+                    "size": {
+                        "width": 1973,
+                        "height": 2631
+                    }
+                },
+                "g1_thumb_square": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_thumb_square\/e6359b19e04b4cb884b168fb5ecbc6f3.jpg",
+                    "size": {
+                        "width": 160,
+                        "height": 160
+                    }
+                },
+                "g1_smartphone": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_smartphone\/e6359b19e04b4cb884b168fb5ecbc6f3.jpg",
+                    "size": {
+                        "width": 640,
+                        "height": 853
+                    }
+                }
+            },
+            "taken_at_local": "2016-02-21T00:14:21-06:00",
+            "type": "photo"
+        },
+        {
+            "trim": true,
+            "uuid": "e36a41cf388640cb873dbe456a43411a",
+            "tags": [],
+            "url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/e36a41cf388640cb873dbe456a43411a\/",
+            "faces": [],
+            "favorite": false,
+            "quality_score": 3.3151180067,
+            "faces_url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/e36a41cf388640cb873dbe456a43411a\/faces\/",
+            "moment_uuid": "e2980a22b7964a0d9115b443f0401ead",
+            "favorited_time": null,
+            "renders": {
+                "g1_hd": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_hd\/e36a41cf388640cb873dbe456a43411a.jpg",
+                    "size": {
+                        "width": 2448,
+                        "height": 3264
+                    }
+                },
+                "g1_thumb_square": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_thumb_square\/e36a41cf388640cb873dbe456a43411a.jpg",
+                    "size": {
+                        "width": 160,
+                        "height": 160
+                    }
+                },
+                "g1_smartphone": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_smartphone\/e36a41cf388640cb873dbe456a43411a.jpg",
+                    "size": {
+                        "width": 640,
+                        "height": 853
+                    }
+                }
+            },
+            "taken_at_local": "2016-02-21T00:14:53-06:00",
+            "type": "photo"
+        },
+        {
+            "trim": false,
+            "uuid": "52e344a181f64f2290957a794f5e60f2",
+            "tags": [],
+            "url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/52e344a181f64f2290957a794f5e60f2\/",
+            "faces": [],
+            "favorite": false,
+            "quality_score": 3.108619631,
+            "faces_url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/52e344a181f64f2290957a794f5e60f2\/faces\/",
+            "moment_uuid": "e2980a22b7964a0d9115b443f0401ead",
+            "favorited_time": null,
+            "renders": {
+                "g1_hd": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_hd\/52e344a181f64f2290957a794f5e60f2.jpg",
+                    "size": {
+                        "width": 2448,
+                        "height": 3264
+                    }
+                },
+                "g1_thumb_square": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_thumb_square\/52e344a181f64f2290957a794f5e60f2.jpg",
+                    "size": {
+                        "width": 160,
+                        "height": 160
+                    }
+                },
+                "g1_smartphone": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_smartphone\/52e344a181f64f2290957a794f5e60f2.jpg",
+                    "size": {
+                        "width": 640,
+                        "height": 853
+                    }
+                }
+            },
+            "taken_at_local": "2016-02-21T00:15:25-06:00",
+            "type": "photo"
+        },
+        {
+            "trim": false,
+            "uuid": "7b69baaf732542d3a22c897673066566",
+            "tags": [],
+            "url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/7b69baaf732542d3a22c897673066566\/",
+            "faces": [],
+            "favorite": false,
+            "quality_score": 2.3688904968,
+            "faces_url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/7b69baaf732542d3a22c897673066566\/faces\/",
+            "moment_uuid": "e2980a22b7964a0d9115b443f0401ead",
+            "favorited_time": null,
+            "renders": {
+                "g1_hd": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_hd\/7b69baaf732542d3a22c897673066566.jpg",
+                    "size": {
+                        "width": 1667,
+                        "height": 2223
+                    }
+                },
+                "g1_thumb_square": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_thumb_square\/7b69baaf732542d3a22c897673066566.jpg",
+                    "size": {
+                        "width": 160,
+                        "height": 160
+                    }
+                },
+                "g1_smartphone": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_smartphone\/7b69baaf732542d3a22c897673066566.jpg",
+                    "size": {
+                        "width": 640,
+                        "height": 853
+                    }
+                }
+            },
+            "taken_at_local": "2016-02-21T00:15:57-06:00",
+            "type": "photo"
+        },
+        {
+            "trim": true,
+            "uuid": "4276c383615549b48bfcb7cd57c64879",
+            "tags": [],
+            "url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/4276c383615549b48bfcb7cd57c64879\/",
+            "faces": [],
+            "favorite": false,
+            "quality_score": 3.3336995967,
+            "faces_url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/4276c383615549b48bfcb7cd57c64879\/faces\/",
+            "moment_uuid": "e2980a22b7964a0d9115b443f0401ead",
+            "favorited_time": null,
+            "renders": {
+                "g1_hd": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_hd\/4276c383615549b48bfcb7cd57c64879.jpg",
+                    "size": {
+                        "width": 2448,
+                        "height": 3264
+                    }
+                },
+                "g1_thumb_square": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_thumb_square\/4276c383615549b48bfcb7cd57c64879.jpg",
+                    "size": {
+                        "width": 160,
+                        "height": 160
+                    }
+                },
+                "g1_smartphone": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_smartphone\/4276c383615549b48bfcb7cd57c64879.jpg",
+                    "size": {
+                        "width": 640,
+                        "height": 853
+                    }
+                }
+            },
+            "taken_at_local": "2016-02-21T00:16:29-06:00",
+            "type": "photo"
+        },
+        {
+            "trim": false,
+            "uuid": "c399f395e239446cb10f47840c6fbdb6",
+            "tags": [],
+            "url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/c399f395e239446cb10f47840c6fbdb6\/",
+            "faces": [],
+            "favorite": false,
+            "quality_score": 2.9042661508,
+            "faces_url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/c399f395e239446cb10f47840c6fbdb6\/faces\/",
+            "moment_uuid": "e2980a22b7964a0d9115b443f0401ead",
+            "favorited_time": null,
+            "renders": {
+                "g1_hd": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_hd\/c399f395e239446cb10f47840c6fbdb6.jpg",
+                    "size": {
+                        "width": 2448,
+                        "height": 3264
+                    }
+                },
+                "g1_thumb_square": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_thumb_square\/c399f395e239446cb10f47840c6fbdb6.jpg",
+                    "size": {
+                        "width": 160,
+                        "height": 160
+                    }
+                },
+                "g1_smartphone": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_smartphone\/c399f395e239446cb10f47840c6fbdb6.jpg",
+                    "size": {
+                        "width": 640,
+                        "height": 853
+                    }
+                }
+            },
+            "taken_at_local": "2016-02-21T00:17:01-06:00",
+            "type": "photo"
+        },
+        {
+            "trim": true,
+            "uuid": "7c1b05ca3f764830b97b1a13dbbed8ed",
+            "tags": [],
+            "url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/7c1b05ca3f764830b97b1a13dbbed8ed\/",
+            "faces": [],
+            "favorite": false,
+            "quality_score": 3.3744458283,
+            "faces_url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/7c1b05ca3f764830b97b1a13dbbed8ed\/faces\/",
+            "moment_uuid": "e2980a22b7964a0d9115b443f0401ead",
+            "favorited_time": null,
+            "renders": {
+                "g1_hd": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_hd\/7c1b05ca3f764830b97b1a13dbbed8ed.jpg",
+                    "size": {
+                        "width": 2448,
+                        "height": 3264
+                    }
+                },
+                "g1_thumb_square": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_thumb_square\/7c1b05ca3f764830b97b1a13dbbed8ed.jpg",
+                    "size": {
+                        "width": 160,
+                        "height": 160
+                    }
+                },
+                "g1_smartphone": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_smartphone\/7c1b05ca3f764830b97b1a13dbbed8ed.jpg",
+                    "size": {
+                        "width": 640,
+                        "height": 853
+                    }
+                }
+            },
+            "taken_at_local": "2016-02-21T00:17:33-06:00",
+            "type": "photo"
+        },
+        {
+            "trim": false,
+            "uuid": "ce905aef89ce4afcbfc47051f583508d",
+            "tags": [],
+            "url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/ce905aef89ce4afcbfc47051f583508d\/",
+            "faces": [],
+            "favorite": false,
+            "quality_score": 1.9961038995,
+            "faces_url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/ce905aef89ce4afcbfc47051f583508d\/faces\/",
+            "moment_uuid": "e2980a22b7964a0d9115b443f0401ead",
+            "favorited_time": null,
+            "renders": {
+                "g1_hd": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_hd\/ce905aef89ce4afcbfc47051f583508d.jpg",
+                    "size": {
+                        "width": 1971,
+                        "height": 2628
+                    }
+                },
+                "g1_thumb_square": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_thumb_square\/ce905aef89ce4afcbfc47051f583508d.jpg",
+                    "size": {
+                        "width": 160,
+                        "height": 160
+                    }
+                },
+                "g1_smartphone": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_smartphone\/ce905aef89ce4afcbfc47051f583508d.jpg",
+                    "size": {
+                        "width": 640,
+                        "height": 853
+                    }
+                }
+            },
+            "taken_at_local": "2016-02-21T00:18:39-06:00",
+            "type": "photo"
+        },
+        {
+            "trim": false,
+            "uuid": "2b9a452cf0004d4caf69c9b2eec535c2",
+            "tags": [],
+            "url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/2b9a452cf0004d4caf69c9b2eec535c2\/",
+            "faces": [],
+            "favorite": false,
+            "quality_score": 2.4913574997,
+            "faces_url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/2b9a452cf0004d4caf69c9b2eec535c2\/faces\/",
+            "moment_uuid": "e2980a22b7964a0d9115b443f0401ead",
+            "favorited_time": null,
+            "renders": {
+                "g1_hd": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_hd\/2b9a452cf0004d4caf69c9b2eec535c2.jpg",
+                    "size": {
+                        "width": 1583,
+                        "height": 2111
+                    }
+                },
+                "g1_thumb_square": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_thumb_square\/2b9a452cf0004d4caf69c9b2eec535c2.jpg",
+                    "size": {
+                        "width": 160,
+                        "height": 160
+                    }
+                },
+                "g1_smartphone": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_smartphone\/2b9a452cf0004d4caf69c9b2eec535c2.jpg",
+                    "size": {
+                        "width": 640,
+                        "height": 853
+                    }
+                }
+            },
+            "taken_at_local": "2016-02-21T00:19:11-06:00",
+            "type": "photo"
+        },
+        {
+            "trim": false,
+            "uuid": "6226962ff59f400d91c74dd037e28fb1",
+            "tags": [],
+            "url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/6226962ff59f400d91c74dd037e28fb1\/",
+            "faces": [],
+            "favorite": false,
+            "quality_score": 3.1540894138,
+            "faces_url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/6226962ff59f400d91c74dd037e28fb1\/faces\/",
+            "moment_uuid": "e2980a22b7964a0d9115b443f0401ead",
+            "favorited_time": null,
+            "renders": {
+                "g1_hd": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_hd\/6226962ff59f400d91c74dd037e28fb1.jpg",
+                    "size": {
+                        "width": 2448,
+                        "height": 3264
+                    }
+                },
+                "g1_thumb_square": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_thumb_square\/6226962ff59f400d91c74dd037e28fb1.jpg",
+                    "size": {
+                        "width": 160,
+                        "height": 160
+                    }
+                },
+                "g1_smartphone": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_smartphone\/6226962ff59f400d91c74dd037e28fb1.jpg",
+                    "size": {
+                        "width": 640,
+                        "height": 853
+                    }
+                }
+            },
+            "taken_at_local": "2016-02-21T00:19:44-06:00",
+            "type": "photo"
+        },
+        {
+            "trim": true,
+            "uuid": "f6f977d50a324196929eae03977c9712",
+            "tags": [],
+            "url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/f6f977d50a324196929eae03977c9712\/",
+            "faces": [],
+            "favorite": false,
+            "quality_score": 3.3303572159,
+            "faces_url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/f6f977d50a324196929eae03977c9712\/faces\/",
+            "moment_uuid": "e2980a22b7964a0d9115b443f0401ead",
+            "favorited_time": null,
+            "renders": {
+                "g1_hd": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_hd\/f6f977d50a324196929eae03977c9712.jpg",
+                    "size": {
+                        "width": 2448,
+                        "height": 3264
+                    }
+                },
+                "g1_thumb_square": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_thumb_square\/f6f977d50a324196929eae03977c9712.jpg",
+                    "size": {
+                        "width": 160,
+                        "height": 160
+                    }
+                },
+                "g1_smartphone": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_smartphone\/f6f977d50a324196929eae03977c9712.jpg",
+                    "size": {
+                        "width": 640,
+                        "height": 853
+                    }
+                }
+            },
+            "taken_at_local": "2016-02-21T00:21:56-06:00",
+            "type": "photo"
+        },
+        {
+            "trim": false,
+            "uuid": "bb0266a6ae234df3b8eda5f94431c2a4",
+            "tags": [],
+            "url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/bb0266a6ae234df3b8eda5f94431c2a4\/",
+            "faces": [],
+            "favorite": false,
+            "quality_score": 2.2117537489,
+            "faces_url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/bb0266a6ae234df3b8eda5f94431c2a4\/faces\/",
+            "moment_uuid": "e2980a22b7964a0d9115b443f0401ead",
+            "favorited_time": null,
+            "renders": {
+                "g1_hd": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_hd\/bb0266a6ae234df3b8eda5f94431c2a4.jpg",
+                    "size": {
+                        "width": 2448,
+                        "height": 3264
+                    }
+                },
+                "g1_thumb_square": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_thumb_square\/bb0266a6ae234df3b8eda5f94431c2a4.jpg",
+                    "size": {
+                        "width": 160,
+                        "height": 160
+                    }
+                },
+                "g1_smartphone": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_smartphone\/bb0266a6ae234df3b8eda5f94431c2a4.jpg",
+                    "size": {
+                        "width": 640,
+                        "height": 853
+                    }
+                }
+            },
+            "taken_at_local": "2016-02-21T00:22:28-06:00",
+            "type": "photo"
+        },
+        {
+            "trim": false,
+            "uuid": "c011e673e1aa4382a5601f2c55bb6ab1",
+            "tags": [],
+            "url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/c011e673e1aa4382a5601f2c55bb6ab1\/",
+            "faces": [],
+            "favorite": false,
+            "quality_score": 3.3854418242,
+            "faces_url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/c011e673e1aa4382a5601f2c55bb6ab1\/faces\/",
+            "moment_uuid": "e2980a22b7964a0d9115b443f0401ead",
+            "favorited_time": null,
+            "renders": {
+                "g1_hd": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_hd\/c011e673e1aa4382a5601f2c55bb6ab1.jpg",
+                    "size": {
+                        "width": 2448,
+                        "height": 3264
+                    }
+                },
+                "g1_thumb_square": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_thumb_square\/c011e673e1aa4382a5601f2c55bb6ab1.jpg",
+                    "size": {
+                        "width": 160,
+                        "height": 160
+                    }
+                },
+                "g1_smartphone": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_smartphone\/c011e673e1aa4382a5601f2c55bb6ab1.jpg",
+                    "size": {
+                        "width": 640,
+                        "height": 853
+                    }
+                }
+            },
+            "taken_at_local": "2016-02-21T00:23:14-06:00",
+            "type": "photo"
+        },
+        {
+            "trim": false,
+            "uuid": "4065d51e31e048d7a3a3a365694c8cf5",
+            "tags": [],
+            "url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/4065d51e31e048d7a3a3a365694c8cf5\/",
+            "faces": [],
+            "favorite": false,
+            "quality_score": 3.4304625996,
+            "faces_url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/4065d51e31e048d7a3a3a365694c8cf5\/faces\/",
+            "moment_uuid": "e2980a22b7964a0d9115b443f0401ead",
+            "favorited_time": null,
+            "renders": {
+                "g1_hd": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_hd\/4065d51e31e048d7a3a3a365694c8cf5.jpg",
+                    "size": {
+                        "width": 2448,
+                        "height": 3264
+                    }
+                },
+                "g1_thumb_square": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_thumb_square\/4065d51e31e048d7a3a3a365694c8cf5.jpg",
+                    "size": {
+                        "width": 160,
+                        "height": 160
+                    }
+                },
+                "g1_smartphone": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_smartphone\/4065d51e31e048d7a3a3a365694c8cf5.jpg",
+                    "size": {
+                        "width": 640,
+                        "height": 853
+                    }
+                }
+            },
+            "taken_at_local": "2016-02-21T00:23:46-06:00",
+            "type": "photo"
+        },
+        {
+            "trim": false,
+            "uuid": "29258b5126d74f7caf1e022adafe3113",
+            "tags": [],
+            "url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/29258b5126d74f7caf1e022adafe3113\/",
+            "faces": [],
+            "favorite": false,
+            "quality_score": 2.9933731647,
+            "faces_url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/29258b5126d74f7caf1e022adafe3113\/faces\/",
+            "moment_uuid": "e2980a22b7964a0d9115b443f0401ead",
+            "favorited_time": null,
+            "renders": {
+                "g1_hd": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_hd\/29258b5126d74f7caf1e022adafe3113.jpg",
+                    "size": {
+                        "width": 2057,
+                        "height": 2743
+                    }
+                },
+                "g1_thumb_square": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_thumb_square\/29258b5126d74f7caf1e022adafe3113.jpg",
+                    "size": {
+                        "width": 160,
+                        "height": 160
+                    }
+                },
+                "g1_smartphone": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_smartphone\/29258b5126d74f7caf1e022adafe3113.jpg",
+                    "size": {
+                        "width": 640,
+                        "height": 853
+                    }
+                }
+            },
+            "taken_at_local": "2016-02-21T00:24:18-06:00",
+            "type": "photo"
+        },
+        {
+            "trim": false,
+            "uuid": "f066ef4cbffa4f7da7a2af7944d42c76",
+            "tags": [],
+            "url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/f066ef4cbffa4f7da7a2af7944d42c76\/",
+            "faces": [],
+            "favorite": false,
+            "quality_score": 3.5132082175,
+            "faces_url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/f066ef4cbffa4f7da7a2af7944d42c76\/faces\/",
+            "moment_uuid": "e2980a22b7964a0d9115b443f0401ead",
+            "favorited_time": null,
+            "renders": {
+                "g1_hd": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_hd\/f066ef4cbffa4f7da7a2af7944d42c76.jpg",
+                    "size": {
+                        "width": 2190,
+                        "height": 2920
+                    }
+                },
+                "g1_thumb_square": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_thumb_square\/f066ef4cbffa4f7da7a2af7944d42c76.jpg",
+                    "size": {
+                        "width": 160,
+                        "height": 160
+                    }
+                },
+                "g1_smartphone": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_smartphone\/f066ef4cbffa4f7da7a2af7944d42c76.jpg",
+                    "size": {
+                        "width": 640,
+                        "height": 853
+                    }
+                }
+            },
+            "taken_at_local": "2016-02-21T00:24:50-06:00",
+            "type": "photo"
+        },
+        {
+            "trim": false,
+            "uuid": "b007b75f1e6d406ea791316088c62747",
+            "tags": [],
+            "url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/b007b75f1e6d406ea791316088c62747\/",
+            "faces": [],
+            "favorite": false,
+            "quality_score": 3.9485564707,
+            "faces_url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/b007b75f1e6d406ea791316088c62747\/faces\/",
+            "moment_uuid": "e2980a22b7964a0d9115b443f0401ead",
+            "favorited_time": null,
+            "renders": {
+                "g1_hd": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_hd\/b007b75f1e6d406ea791316088c62747.jpg",
+                    "size": {
+                        "width": 2057,
+                        "height": 2743
+                    }
+                },
+                "g1_thumb_square": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_thumb_square\/b007b75f1e6d406ea791316088c62747.jpg",
+                    "size": {
+                        "width": 160,
+                        "height": 160
+                    }
+                },
+                "g1_smartphone": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_smartphone\/b007b75f1e6d406ea791316088c62747.jpg",
+                    "size": {
+                        "width": 640,
+                        "height": 853
+                    }
+                }
+            },
+            "taken_at_local": "2016-02-21T00:25:22-06:00",
+            "type": "photo"
+        },
+        {
+            "trim": true,
+            "uuid": "a381abc236bb4d42b443db723f1e4cbd",
+            "tags": [],
+            "url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/a381abc236bb4d42b443db723f1e4cbd\/",
+            "faces": [],
+            "favorite": false,
+            "quality_score": 4.391416116,
+            "faces_url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/a381abc236bb4d42b443db723f1e4cbd\/faces\/",
+            "moment_uuid": "e2980a22b7964a0d9115b443f0401ead",
+            "favorited_time": null,
+            "renders": {
+                "g1_hd": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_hd\/a381abc236bb4d42b443db723f1e4cbd.jpg",
+                    "size": {
+                        "width": 2158,
+                        "height": 2877
+                    }
+                },
+                "g1_thumb_square": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_thumb_square\/a381abc236bb4d42b443db723f1e4cbd.jpg",
+                    "size": {
+                        "width": 160,
+                        "height": 160
+                    }
+                },
+                "g1_smartphone": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_smartphone\/a381abc236bb4d42b443db723f1e4cbd.jpg",
+                    "size": {
+                        "width": 640,
+                        "height": 853
+                    }
+                }
+            },
+            "taken_at_local": "2016-02-21T00:25:54-06:00",
+            "type": "photo"
+        },
+        {
+            "trim": true,
+            "uuid": "131e19e5b51e41c79ee290728bba4419",
+            "tags": [],
+            "url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/131e19e5b51e41c79ee290728bba4419\/",
+            "faces": [],
+            "favorite": false,
+            "quality_score": 4.0812802036,
+            "faces_url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/131e19e5b51e41c79ee290728bba4419\/faces\/",
+            "moment_uuid": "e2980a22b7964a0d9115b443f0401ead",
+            "favorited_time": null,
+            "renders": {
+                "g1_hd": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_hd\/131e19e5b51e41c79ee290728bba4419.jpg",
+                    "size": {
+                        "width": 2113,
+                        "height": 2817
+                    }
+                },
+                "g1_thumb_square": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_thumb_square\/131e19e5b51e41c79ee290728bba4419.jpg",
+                    "size": {
+                        "width": 160,
+                        "height": 160
+                    }
+                },
+                "g1_smartphone": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_smartphone\/131e19e5b51e41c79ee290728bba4419.jpg",
+                    "size": {
+                        "width": 640,
+                        "height": 853
+                    }
+                }
+            },
+            "taken_at_local": "2016-02-21T00:26:26-06:00",
+            "type": "photo"
+        },
+        {
+            "trim": false,
+            "uuid": "b4a7662f457a4455882b85584eb67bf9",
+            "tags": [],
+            "url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/b4a7662f457a4455882b85584eb67bf9\/",
+            "faces": [],
+            "favorite": false,
+            "quality_score": 2.4933619712,
+            "faces_url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/b4a7662f457a4455882b85584eb67bf9\/faces\/",
+            "moment_uuid": "e2980a22b7964a0d9115b443f0401ead",
+            "favorited_time": null,
+            "renders": {
+                "g1_hd": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_hd\/b4a7662f457a4455882b85584eb67bf9.jpg",
+                    "size": {
+                        "width": 2089,
+                        "height": 2785
+                    }
+                },
+                "g1_thumb_square": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_thumb_square\/b4a7662f457a4455882b85584eb67bf9.jpg",
+                    "size": {
+                        "width": 160,
+                        "height": 160
+                    }
+                },
+                "g1_smartphone": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_smartphone\/b4a7662f457a4455882b85584eb67bf9.jpg",
+                    "size": {
+                        "width": 640,
+                        "height": 853
+                    }
+                }
+            },
+            "taken_at_local": "2016-02-21T00:26:58-06:00",
+            "type": "photo"
+        },
+        {
+            "trim": true,
+            "uuid": "2da4d75de0e34a079250abc9d1f7c6e2",
+            "tags": [],
+            "url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/2da4d75de0e34a079250abc9d1f7c6e2\/",
+            "faces": [],
+            "favorite": false,
+            "quality_score": 4.325216259,
+            "faces_url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/2da4d75de0e34a079250abc9d1f7c6e2\/faces\/",
+            "moment_uuid": "e2980a22b7964a0d9115b443f0401ead",
+            "favorited_time": null,
+            "renders": {
+                "g1_hd": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_hd\/2da4d75de0e34a079250abc9d1f7c6e2.jpg",
+                    "size": {
+                        "width": 2023,
+                        "height": 2697
+                    }
+                },
+                "g1_thumb_square": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_thumb_square\/2da4d75de0e34a079250abc9d1f7c6e2.jpg",
+                    "size": {
+                        "width": 160,
+                        "height": 160
+                    }
+                },
+                "g1_smartphone": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_smartphone\/2da4d75de0e34a079250abc9d1f7c6e2.jpg",
+                    "size": {
+                        "width": 640,
+                        "height": 853
+                    }
+                }
+            },
+            "taken_at_local": "2016-02-21T00:27:30-06:00",
+            "type": "photo"
+        },
+        {
+            "trim": true,
+            "uuid": "e960da02ff0145ab8839e2c775827ce7",
+            "tags": [],
+            "url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/e960da02ff0145ab8839e2c775827ce7\/",
+            "faces": [],
+            "favorite": false,
+            "quality_score": 4.2269956541,
+            "faces_url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/e960da02ff0145ab8839e2c775827ce7\/faces\/",
+            "moment_uuid": "e2980a22b7964a0d9115b443f0401ead",
+            "favorited_time": null,
+            "renders": {
+                "g1_hd": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_hd\/e960da02ff0145ab8839e2c775827ce7.jpg",
+                    "size": {
+                        "width": 2026,
+                        "height": 2701
+                    }
+                },
+                "g1_thumb_square": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_thumb_square\/e960da02ff0145ab8839e2c775827ce7.jpg",
+                    "size": {
+                        "width": 160,
+                        "height": 160
+                    }
+                },
+                "g1_smartphone": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_smartphone\/e960da02ff0145ab8839e2c775827ce7.jpg",
+                    "size": {
+                        "width": 640,
+                        "height": 853
+                    }
+                }
+            },
+            "taken_at_local": "2016-02-21T00:28:02-06:00",
+            "type": "photo"
+        },
+        {
+            "trim": false,
+            "uuid": "8529c68997d84950b8c0247e5cf67c12",
+            "tags": [],
+            "url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/8529c68997d84950b8c0247e5cf67c12\/",
+            "faces": [],
+            "favorite": false,
+            "quality_score": 2.0575022425,
+            "faces_url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/8529c68997d84950b8c0247e5cf67c12\/faces\/",
+            "moment_uuid": "e2980a22b7964a0d9115b443f0401ead",
+            "favorited_time": null,
+            "renders": {
+                "g1_hd": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_hd\/8529c68997d84950b8c0247e5cf67c12.jpg",
+                    "size": {
+                        "width": 1616,
+                        "height": 2155
+                    }
+                },
+                "g1_thumb_square": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_thumb_square\/8529c68997d84950b8c0247e5cf67c12.jpg",
+                    "size": {
+                        "width": 160,
+                        "height": 160
+                    }
+                },
+                "g1_smartphone": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_smartphone\/8529c68997d84950b8c0247e5cf67c12.jpg",
+                    "size": {
+                        "width": 640,
+                        "height": 853
+                    }
+                }
+            },
+            "taken_at_local": "2016-02-21T00:28:34-06:00",
+            "type": "photo"
+        },
+        {
+            "trim": false,
+            "uuid": "d2b8d73a477742cca94624d05c05064b",
+            "tags": [],
+            "url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/d2b8d73a477742cca94624d05c05064b\/",
+            "faces": [],
+            "favorite": false,
+            "quality_score": 3.5605453882,
+            "faces_url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/d2b8d73a477742cca94624d05c05064b\/faces\/",
+            "moment_uuid": "e2980a22b7964a0d9115b443f0401ead",
+            "favorited_time": null,
+            "renders": {
+                "g1_hd": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_hd\/d2b8d73a477742cca94624d05c05064b.jpg",
+                    "size": {
+                        "width": 2125,
+                        "height": 2833
+                    }
+                },
+                "g1_thumb_square": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_thumb_square\/d2b8d73a477742cca94624d05c05064b.jpg",
+                    "size": {
+                        "width": 160,
+                        "height": 160
+                    }
+                },
+                "g1_smartphone": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_smartphone\/d2b8d73a477742cca94624d05c05064b.jpg",
+                    "size": {
+                        "width": 640,
+                        "height": 853
+                    }
+                }
+            },
+            "taken_at_local": "2016-02-21T00:29:06-06:00",
+            "type": "photo"
+        },
+        {
+            "trim": false,
+            "uuid": "5d5bc4d9886e499daae38472ce71f2b9",
+            "tags": [],
+            "url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/5d5bc4d9886e499daae38472ce71f2b9\/",
+            "faces": [],
+            "favorite": false,
+            "quality_score": 2.0173044561,
+            "faces_url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/5d5bc4d9886e499daae38472ce71f2b9\/faces\/",
+            "moment_uuid": "e2980a22b7964a0d9115b443f0401ead",
+            "favorited_time": null,
+            "renders": {
+                "g1_hd": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_hd\/5d5bc4d9886e499daae38472ce71f2b9.jpg",
+                    "size": {
+                        "width": 2005,
+                        "height": 2673
+                    }
+                },
+                "g1_thumb_square": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_thumb_square\/5d5bc4d9886e499daae38472ce71f2b9.jpg",
+                    "size": {
+                        "width": 160,
+                        "height": 160
+                    }
+                },
+                "g1_smartphone": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_smartphone\/5d5bc4d9886e499daae38472ce71f2b9.jpg",
+                    "size": {
+                        "width": 640,
+                        "height": 853
+                    }
+                }
+            },
+            "taken_at_local": "2016-02-21T00:29:38-06:00",
+            "type": "photo"
+        },
+        {
+            "trim": false,
+            "uuid": "c4bad5f82916421090ca23c8fede8556",
+            "tags": [],
+            "url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/c4bad5f82916421090ca23c8fede8556\/",
+            "faces": [],
+            "favorite": false,
+            "quality_score": 2.0775565424,
+            "faces_url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/c4bad5f82916421090ca23c8fede8556\/faces\/",
+            "moment_uuid": "e2980a22b7964a0d9115b443f0401ead",
+            "favorited_time": null,
+            "renders": {
+                "g1_hd": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_hd\/c4bad5f82916421090ca23c8fede8556.jpg",
+                    "size": {
+                        "width": 2107,
+                        "height": 2809
+                    }
+                },
+                "g1_thumb_square": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_thumb_square\/c4bad5f82916421090ca23c8fede8556.jpg",
+                    "size": {
+                        "width": 160,
+                        "height": 160
+                    }
+                },
+                "g1_smartphone": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_smartphone\/c4bad5f82916421090ca23c8fede8556.jpg",
+                    "size": {
+                        "width": 640,
+                        "height": 853
+                    }
+                }
+            },
+            "taken_at_local": "2016-02-21T00:30:46-06:00",
+            "type": "photo"
+        },
+        {
+            "trim": false,
+            "uuid": "ef3eda88bce94ede8da2de55e894164c",
+            "tags": [],
+            "url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/ef3eda88bce94ede8da2de55e894164c\/",
+            "faces": [],
+            "favorite": false,
+            "quality_score": 1.8782078064,
+            "faces_url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/ef3eda88bce94ede8da2de55e894164c\/faces\/",
+            "moment_uuid": "e2980a22b7964a0d9115b443f0401ead",
+            "favorited_time": null,
+            "renders": {
+                "g1_hd": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_hd\/ef3eda88bce94ede8da2de55e894164c.jpg",
+                    "size": {
+                        "width": 1959,
+                        "height": 2612
+                    }
+                },
+                "g1_thumb_square": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_thumb_square\/ef3eda88bce94ede8da2de55e894164c.jpg",
+                    "size": {
+                        "width": 160,
+                        "height": 160
+                    }
+                },
+                "g1_smartphone": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_smartphone\/ef3eda88bce94ede8da2de55e894164c.jpg",
+                    "size": {
+                        "width": 640,
+                        "height": 853
+                    }
+                }
+            },
+            "taken_at_local": "2016-02-21T00:31:51-06:00",
+            "type": "photo"
+        },
+        {
+            "trim": true,
+            "uuid": "fd31f1fbf0514c948dac9d2498b81b09",
+            "tags": [],
+            "url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/fd31f1fbf0514c948dac9d2498b81b09\/",
+            "faces": [],
+            "favorite": false,
+            "quality_score": 4.3750221162,
+            "faces_url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/fd31f1fbf0514c948dac9d2498b81b09\/faces\/",
+            "moment_uuid": "e2980a22b7964a0d9115b443f0401ead",
+            "favorited_time": null,
+            "renders": {
+                "g1_hd": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_hd\/fd31f1fbf0514c948dac9d2498b81b09.jpg",
+                    "size": {
+                        "width": 2448,
+                        "height": 3264
+                    }
+                },
+                "g1_thumb_square": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_thumb_square\/fd31f1fbf0514c948dac9d2498b81b09.jpg",
+                    "size": {
+                        "width": 160,
+                        "height": 160
+                    }
+                },
+                "g1_smartphone": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_smartphone\/fd31f1fbf0514c948dac9d2498b81b09.jpg",
+                    "size": {
+                        "width": 640,
+                        "height": 853
+                    }
+                }
+            },
+            "taken_at_local": "2016-02-21T00:33:14-06:00",
+            "type": "photo"
+        },
+        {
+            "trim": false,
+            "uuid": "f55683cb056940279bb1d3c4fd8b7da6",
+            "tags": [],
+            "url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/f55683cb056940279bb1d3c4fd8b7da6\/",
+            "faces": [],
+            "favorite": false,
+            "quality_score": 1.851482617,
+            "faces_url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/f55683cb056940279bb1d3c4fd8b7da6\/faces\/",
+            "moment_uuid": "e2980a22b7964a0d9115b443f0401ead",
+            "favorited_time": null,
+            "renders": {
+                "g1_hd": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_hd\/f55683cb056940279bb1d3c4fd8b7da6.jpg",
+                    "size": {
+                        "width": 1809,
+                        "height": 2412
+                    }
+                },
+                "g1_thumb_square": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_thumb_square\/f55683cb056940279bb1d3c4fd8b7da6.jpg",
+                    "size": {
+                        "width": 160,
+                        "height": 160
+                    }
+                },
+                "g1_smartphone": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_smartphone\/f55683cb056940279bb1d3c4fd8b7da6.jpg",
+                    "size": {
+                        "width": 640,
+                        "height": 853
+                    }
+                }
+            },
+            "taken_at_local": "2016-02-21T00:33:46-06:00",
+            "type": "photo"
+        },
+        {
+            "trim": false,
+            "uuid": "f76cf249e07d4ecc8eb4ac344ed2ae78",
+            "tags": [],
+            "url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/f76cf249e07d4ecc8eb4ac344ed2ae78\/",
+            "faces": [],
+            "favorite": false,
+            "quality_score": 2.3782528772,
+            "faces_url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/f76cf249e07d4ecc8eb4ac344ed2ae78\/faces\/",
+            "moment_uuid": "e2980a22b7964a0d9115b443f0401ead",
+            "favorited_time": null,
+            "renders": {
+                "g1_hd": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_hd\/f76cf249e07d4ecc8eb4ac344ed2ae78.jpg",
+                    "size": {
+                        "width": 1828,
+                        "height": 2437
+                    }
+                },
+                "g1_thumb_square": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_thumb_square\/f76cf249e07d4ecc8eb4ac344ed2ae78.jpg",
+                    "size": {
+                        "width": 160,
+                        "height": 160
+                    }
+                },
+                "g1_smartphone": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_smartphone\/f76cf249e07d4ecc8eb4ac344ed2ae78.jpg",
+                    "size": {
+                        "width": 640,
+                        "height": 853
+                    }
+                }
+            },
+            "taken_at_local": "2016-02-21T00:34:18-06:00",
+            "type": "photo"
+        },
+        {
+            "trim": false,
+            "uuid": "718ccfbb5aeb4fb5b01688f0828b96f0",
+            "tags": [],
+            "url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/718ccfbb5aeb4fb5b01688f0828b96f0\/",
+            "faces": [],
+            "favorite": false,
+            "quality_score": 3.2702257712,
+            "faces_url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/718ccfbb5aeb4fb5b01688f0828b96f0\/faces\/",
+            "moment_uuid": "e2980a22b7964a0d9115b443f0401ead",
+            "favorited_time": null,
+            "renders": {
+                "g1_hd": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_hd\/718ccfbb5aeb4fb5b01688f0828b96f0.jpg",
+                    "size": {
+                        "width": 2037,
+                        "height": 2716
+                    }
+                },
+                "g1_thumb_square": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_thumb_square\/718ccfbb5aeb4fb5b01688f0828b96f0.jpg",
+                    "size": {
+                        "width": 160,
+                        "height": 160
+                    }
+                },
+                "g1_smartphone": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_smartphone\/718ccfbb5aeb4fb5b01688f0828b96f0.jpg",
+                    "size": {
+                        "width": 640,
+                        "height": 853
+                    }
+                }
+            },
+            "taken_at_local": "2016-02-21T00:35:22-06:00",
+            "type": "photo"
+        },
+        {
+            "trim": false,
+            "uuid": "0ea4f3aeaf804f90bd401f065081a02f",
+            "tags": [],
+            "url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/0ea4f3aeaf804f90bd401f065081a02f\/",
+            "faces": [],
+            "favorite": false,
+            "quality_score": 2.1385710611,
+            "faces_url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/0ea4f3aeaf804f90bd401f065081a02f\/faces\/",
+            "moment_uuid": "e2980a22b7964a0d9115b443f0401ead",
+            "favorited_time": null,
+            "renders": {
+                "g1_hd": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_hd\/0ea4f3aeaf804f90bd401f065081a02f.jpg",
+                    "size": {
+                        "width": 1891,
+                        "height": 2521
+                    }
+                },
+                "g1_thumb_square": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_thumb_square\/0ea4f3aeaf804f90bd401f065081a02f.jpg",
+                    "size": {
+                        "width": 160,
+                        "height": 160
+                    }
+                },
+                "g1_smartphone": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_smartphone\/0ea4f3aeaf804f90bd401f065081a02f.jpg",
+                    "size": {
+                        "width": 640,
+                        "height": 853
+                    }
+                }
+            },
+            "taken_at_local": "2016-02-21T00:35:54-06:00",
+            "type": "photo"
+        },
+        {
+            "trim": false,
+            "uuid": "c499d0778f704fc8a2db90d6504a4517",
+            "tags": [],
+            "url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/c499d0778f704fc8a2db90d6504a4517\/",
+            "faces": [],
+            "favorite": false,
+            "quality_score": 2.3885930841,
+            "faces_url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/c499d0778f704fc8a2db90d6504a4517\/faces\/",
+            "moment_uuid": "e2980a22b7964a0d9115b443f0401ead",
+            "favorited_time": null,
+            "renders": {
+                "g1_hd": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_hd\/c499d0778f704fc8a2db90d6504a4517.jpg",
+                    "size": {
+                        "width": 1816,
+                        "height": 2421
+                    }
+                },
+                "g1_thumb_square": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_thumb_square\/c499d0778f704fc8a2db90d6504a4517.jpg",
+                    "size": {
+                        "width": 160,
+                        "height": 160
+                    }
+                },
+                "g1_smartphone": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_smartphone\/c499d0778f704fc8a2db90d6504a4517.jpg",
+                    "size": {
+                        "width": 640,
+                        "height": 853
+                    }
+                }
+            },
+            "taken_at_local": "2016-02-21T00:36:27-06:00",
+            "type": "photo"
+        },
+        {
+            "trim": false,
+            "uuid": "1128cf3823fc4a25a17015ac8a283ceb",
+            "tags": [],
+            "url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/1128cf3823fc4a25a17015ac8a283ceb\/",
+            "faces": [],
+            "favorite": false,
+            "quality_score": 3.2746565992,
+            "faces_url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/1128cf3823fc4a25a17015ac8a283ceb\/faces\/",
+            "moment_uuid": "e2980a22b7964a0d9115b443f0401ead",
+            "favorited_time": null,
+            "renders": {
+                "g1_hd": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_hd\/1128cf3823fc4a25a17015ac8a283ceb.jpg",
+                    "size": {
+                        "width": 2448,
+                        "height": 3264
+                    }
+                },
+                "g1_thumb_square": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_thumb_square\/1128cf3823fc4a25a17015ac8a283ceb.jpg",
+                    "size": {
+                        "width": 160,
+                        "height": 160
+                    }
+                },
+                "g1_smartphone": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_smartphone\/1128cf3823fc4a25a17015ac8a283ceb.jpg",
+                    "size": {
+                        "width": 640,
+                        "height": 853
+                    }
+                }
+            },
+            "taken_at_local": "2016-02-21T00:36:59-06:00",
+            "type": "photo"
+        },
+        {
+            "trim": true,
+            "uuid": "b8137c598077449d86bbd09be6d595b0",
+            "tags": [],
+            "url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/b8137c598077449d86bbd09be6d595b0\/",
+            "faces": [],
+            "favorite": false,
+            "quality_score": 3.9501868339,
+            "faces_url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/b8137c598077449d86bbd09be6d595b0\/faces\/",
+            "moment_uuid": "e2980a22b7964a0d9115b443f0401ead",
+            "favorited_time": null,
+            "renders": {
+                "g1_hd": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_hd\/b8137c598077449d86bbd09be6d595b0.jpg",
+                    "size": {
+                        "width": 2103,
+                        "height": 2804
+                    }
+                },
+                "g1_thumb_square": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_thumb_square\/b8137c598077449d86bbd09be6d595b0.jpg",
+                    "size": {
+                        "width": 160,
+                        "height": 160
+                    }
+                },
+                "g1_smartphone": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_smartphone\/b8137c598077449d86bbd09be6d595b0.jpg",
+                    "size": {
+                        "width": 640,
+                        "height": 853
+                    }
+                }
+            },
+            "taken_at_local": "2016-02-21T00:37:31-06:00",
+            "type": "photo"
+        },
+        {
+            "trim": true,
+            "uuid": "6b77b7458445416a9d86fb7c79510e77",
+            "tags": [],
+            "url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/6b77b7458445416a9d86fb7c79510e77\/",
+            "faces": [],
+            "favorite": true,
+            "quality_score": 3.9501285241,
+            "faces_url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/6b77b7458445416a9d86fb7c79510e77\/faces\/",
+            "moment_uuid": "e2980a22b7964a0d9115b443f0401ead",
+            "favorited_time": "2016-02-21T17:48:00.469Z",
+            "renders": {
+                "g1_hd": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_hd\/6b77b7458445416a9d86fb7c79510e77.jpg",
+                    "size": {
+                        "width": 2448,
+                        "height": 3264
+                    }
+                },
+                "g1_thumb_square": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_thumb_square\/6b77b7458445416a9d86fb7c79510e77.jpg",
+                    "size": {
+                        "width": 160,
+                        "height": 160
+                    }
+                },
+                "g1_smartphone": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_smartphone\/6b77b7458445416a9d86fb7c79510e77.jpg",
+                    "size": {
+                        "width": 640,
+                        "height": 853
+                    }
+                }
+            },
+            "taken_at_local": "2016-02-21T00:40:12-06:00",
+            "type": "photo"
+        },
+        {
+            "trim": false,
+            "uuid": "b493852bcf6444a4b1d407223d70055e",
+            "tags": [],
+            "url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/b493852bcf6444a4b1d407223d70055e\/",
+            "faces": [],
+            "favorite": false,
+            "quality_score": 2.6959555423,
+            "faces_url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/b493852bcf6444a4b1d407223d70055e\/faces\/",
+            "moment_uuid": "e2980a22b7964a0d9115b443f0401ead",
+            "favorited_time": null,
+            "renders": {
+                "g1_hd": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_hd\/b493852bcf6444a4b1d407223d70055e.jpg",
+                    "size": {
+                        "width": 2013,
+                        "height": 2684
+                    }
+                },
+                "g1_thumb_square": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_thumb_square\/b493852bcf6444a4b1d407223d70055e.jpg",
+                    "size": {
+                        "width": 160,
+                        "height": 160
+                    }
+                },
+                "g1_smartphone": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_smartphone\/b493852bcf6444a4b1d407223d70055e.jpg",
+                    "size": {
+                        "width": 640,
+                        "height": 853
+                    }
+                }
+            },
+            "taken_at_local": "2016-02-21T00:49:52-06:00",
+            "type": "photo"
+        },
+        {
+            "trim": true,
+            "uuid": "8dcf4b05db9c44df8b2f885daffdd6f5",
+            "tags": [],
+            "url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/8dcf4b05db9c44df8b2f885daffdd6f5\/",
+            "faces": [],
+            "favorite": false,
+            "quality_score": 4.1142386836,
+            "faces_url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/8dcf4b05db9c44df8b2f885daffdd6f5\/faces\/",
+            "moment_uuid": "e2980a22b7964a0d9115b443f0401ead",
+            "favorited_time": null,
+            "renders": {
+                "g1_hd": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_hd\/8dcf4b05db9c44df8b2f885daffdd6f5.jpg",
+                    "size": {
+                        "width": 2154,
+                        "height": 2872
+                    }
+                },
+                "g1_thumb_square": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_thumb_square\/8dcf4b05db9c44df8b2f885daffdd6f5.jpg",
+                    "size": {
+                        "width": 160,
+                        "height": 160
+                    }
+                },
+                "g1_smartphone": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_smartphone\/8dcf4b05db9c44df8b2f885daffdd6f5.jpg",
+                    "size": {
+                        "width": 640,
+                        "height": 853
+                    }
+                }
+            },
+            "taken_at_local": "2016-02-21T00:50:24-06:00",
+            "type": "photo"
+        },
+        {
+            "trim": true,
+            "uuid": "c4712cfab68149099be90f66923ede21",
+            "tags": [],
+            "url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/c4712cfab68149099be90f66923ede21\/",
+            "faces": [],
+            "favorite": false,
+            "quality_score": 3.9591800876,
+            "faces_url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/c4712cfab68149099be90f66923ede21\/faces\/",
+            "moment_uuid": "e2980a22b7964a0d9115b443f0401ead",
+            "favorited_time": null,
+            "renders": {
+                "g1_hd": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_hd\/c4712cfab68149099be90f66923ede21.jpg",
+                    "size": {
+                        "width": 2039,
+                        "height": 2719
+                    }
+                },
+                "g1_thumb_square": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_thumb_square\/c4712cfab68149099be90f66923ede21.jpg",
+                    "size": {
+                        "width": 160,
+                        "height": 160
+                    }
+                },
+                "g1_smartphone": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_smartphone\/c4712cfab68149099be90f66923ede21.jpg",
+                    "size": {
+                        "width": 640,
+                        "height": 853
+                    }
+                }
+            },
+            "taken_at_local": "2016-02-21T00:50:56-06:00",
+            "type": "photo"
+        },
+        {
+            "trim": true,
+            "uuid": "c4eadd4ceffb4e029c78a7dce7562827",
+            "tags": [],
+            "url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/c4eadd4ceffb4e029c78a7dce7562827\/",
+            "faces": [],
+            "favorite": false,
+            "quality_score": 4.1904867897,
+            "faces_url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/c4eadd4ceffb4e029c78a7dce7562827\/faces\/",
+            "moment_uuid": "e2980a22b7964a0d9115b443f0401ead",
+            "favorited_time": null,
+            "renders": {
+                "g1_hd": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_hd\/c4eadd4ceffb4e029c78a7dce7562827.jpg",
+                    "size": {
+                        "width": 2448,
+                        "height": 3264
+                    }
+                },
+                "g1_thumb_square": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_thumb_square\/c4eadd4ceffb4e029c78a7dce7562827.jpg",
+                    "size": {
+                        "width": 160,
+                        "height": 160
+                    }
+                },
+                "g1_smartphone": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_smartphone\/c4eadd4ceffb4e029c78a7dce7562827.jpg",
+                    "size": {
+                        "width": 640,
+                        "height": 853
+                    }
+                }
+            },
+            "taken_at_local": "2016-02-21T00:51:28-06:00",
+            "type": "photo"
+        },
+        {
+            "trim": true,
+            "uuid": "390576c453dd464a93cea67c8a39f84d",
+            "tags": [],
+            "url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/390576c453dd464a93cea67c8a39f84d\/",
+            "faces": [],
+            "favorite": false,
+            "quality_score": 4.4305334558,
+            "faces_url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/390576c453dd464a93cea67c8a39f84d\/faces\/",
+            "moment_uuid": "e2980a22b7964a0d9115b443f0401ead",
+            "favorited_time": null,
+            "renders": {
+                "g1_hd": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_hd\/390576c453dd464a93cea67c8a39f84d.jpg",
+                    "size": {
+                        "width": 2448,
+                        "height": 3264
+                    }
+                },
+                "g1_thumb_square": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_thumb_square\/390576c453dd464a93cea67c8a39f84d.jpg",
+                    "size": {
+                        "width": 160,
+                        "height": 160
+                    }
+                },
+                "g1_smartphone": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_smartphone\/390576c453dd464a93cea67c8a39f84d.jpg",
+                    "size": {
+                        "width": 640,
+                        "height": 853
+                    }
+                }
+            },
+            "taken_at_local": "2016-02-21T00:52:00-06:00",
+            "type": "photo"
+        },
+        {
+            "trim": true,
+            "uuid": "9c5a478dc8004ed7ae10458d7b826989",
+            "tags": [],
+            "url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/9c5a478dc8004ed7ae10458d7b826989\/",
+            "faces": [],
+            "favorite": false,
+            "quality_score": 4.5520917996,
+            "faces_url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/9c5a478dc8004ed7ae10458d7b826989\/faces\/",
+            "moment_uuid": "e2980a22b7964a0d9115b443f0401ead",
+            "favorited_time": null,
+            "renders": {
+                "g1_hd": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_hd\/9c5a478dc8004ed7ae10458d7b826989.jpg",
+                    "size": {
+                        "width": 2448,
+                        "height": 3264
+                    }
+                },
+                "g1_thumb_square": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_thumb_square\/9c5a478dc8004ed7ae10458d7b826989.jpg",
+                    "size": {
+                        "width": 160,
+                        "height": 160
+                    }
+                },
+                "g1_smartphone": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_smartphone\/9c5a478dc8004ed7ae10458d7b826989.jpg",
+                    "size": {
+                        "width": 640,
+                        "height": 853
+                    }
+                }
+            },
+            "taken_at_local": "2016-02-21T00:52:32-06:00",
+            "type": "photo"
+        },
+        {
+            "trim": false,
+            "uuid": "87a853c6154b4bde9b65db88ef45ae7b",
+            "tags": [],
+            "url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/87a853c6154b4bde9b65db88ef45ae7b\/",
+            "faces": [],
+            "favorite": false,
+            "quality_score": 3.8969240733,
+            "faces_url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/87a853c6154b4bde9b65db88ef45ae7b\/faces\/",
+            "moment_uuid": "e2980a22b7964a0d9115b443f0401ead",
+            "favorited_time": null,
+            "renders": {
+                "g1_hd": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_hd\/87a853c6154b4bde9b65db88ef45ae7b.jpg",
+                    "size": {
+                        "width": 1869,
+                        "height": 2492
+                    }
+                },
+                "g1_thumb_square": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_thumb_square\/87a853c6154b4bde9b65db88ef45ae7b.jpg",
+                    "size": {
+                        "width": 160,
+                        "height": 160
+                    }
+                },
+                "g1_smartphone": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_smartphone\/87a853c6154b4bde9b65db88ef45ae7b.jpg",
+                    "size": {
+                        "width": 640,
+                        "height": 853
+                    }
+                }
+            },
+            "taken_at_local": "2016-02-21T00:53:04-06:00",
+            "type": "photo"
+        },
+        {
+            "trim": false,
+            "uuid": "bd44fd94ef024b9e80621af7b0c13e7d",
+            "tags": [],
+            "url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/bd44fd94ef024b9e80621af7b0c13e7d\/",
+            "faces": [],
+            "favorite": false,
+            "quality_score": 3.2140228755,
+            "faces_url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/bd44fd94ef024b9e80621af7b0c13e7d\/faces\/",
+            "moment_uuid": "e2980a22b7964a0d9115b443f0401ead",
+            "favorited_time": null,
+            "renders": {
+                "g1_hd": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_hd\/bd44fd94ef024b9e80621af7b0c13e7d.jpg",
+                    "size": {
+                        "width": 2448,
+                        "height": 3264
+                    }
+                },
+                "g1_thumb_square": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_thumb_square\/bd44fd94ef024b9e80621af7b0c13e7d.jpg",
+                    "size": {
+                        "width": 160,
+                        "height": 160
+                    }
+                },
+                "g1_smartphone": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_smartphone\/bd44fd94ef024b9e80621af7b0c13e7d.jpg",
+                    "size": {
+                        "width": 640,
+                        "height": 853
+                    }
+                }
+            },
+            "taken_at_local": "2016-02-21T00:53:36-06:00",
+            "type": "photo"
+        },
+        {
+            "trim": true,
+            "uuid": "02713bed819f4e19876b462fb4e718af",
+            "tags": [],
+            "url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/02713bed819f4e19876b462fb4e718af\/",
+            "faces": [],
+            "favorite": false,
+            "quality_score": 4.0131012224,
+            "faces_url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/02713bed819f4e19876b462fb4e718af\/faces\/",
+            "moment_uuid": "e2980a22b7964a0d9115b443f0401ead",
+            "favorited_time": null,
+            "renders": {
+                "g1_hd": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_hd\/02713bed819f4e19876b462fb4e718af.jpg",
+                    "size": {
+                        "width": 2062,
+                        "height": 2749
+                    }
+                },
+                "g1_thumb_square": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_thumb_square\/02713bed819f4e19876b462fb4e718af.jpg",
+                    "size": {
+                        "width": 160,
+                        "height": 160
+                    }
+                },
+                "g1_smartphone": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_smartphone\/02713bed819f4e19876b462fb4e718af.jpg",
+                    "size": {
+                        "width": 640,
+                        "height": 853
+                    }
+                }
+            },
+            "taken_at_local": "2016-02-21T00:54:08-06:00",
+            "type": "photo"
+        },
+        {
+            "trim": false,
+            "uuid": "5773a7214e4148c79f9153a0c52a062b",
+            "tags": [],
+            "url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/5773a7214e4148c79f9153a0c52a062b\/",
+            "faces": [],
+            "favorite": false,
+            "quality_score": 2.352635815,
+            "faces_url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/5773a7214e4148c79f9153a0c52a062b\/faces\/",
+            "moment_uuid": "e2980a22b7964a0d9115b443f0401ead",
+            "favorited_time": null,
+            "renders": {
+                "g1_hd": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_hd\/5773a7214e4148c79f9153a0c52a062b.jpg",
+                    "size": {
+                        "width": 2196,
+                        "height": 2928
+                    }
+                },
+                "g1_thumb_square": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_thumb_square\/5773a7214e4148c79f9153a0c52a062b.jpg",
+                    "size": {
+                        "width": 160,
+                        "height": 160
+                    }
+                },
+                "g1_smartphone": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_smartphone\/5773a7214e4148c79f9153a0c52a062b.jpg",
+                    "size": {
+                        "width": 640,
+                        "height": 853
+                    }
+                }
+            },
+            "taken_at_local": "2016-02-21T00:58:26-06:00",
+            "type": "photo"
+        },
+        {
+            "trim": false,
+            "uuid": "a024778ad524459a905babbd49b5971a",
+            "tags": [],
+            "url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/a024778ad524459a905babbd49b5971a\/",
+            "faces": [],
+            "favorite": false,
+            "quality_score": 2.3444317041,
+            "faces_url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/a024778ad524459a905babbd49b5971a\/faces\/",
+            "moment_uuid": "e2980a22b7964a0d9115b443f0401ead",
+            "favorited_time": null,
+            "renders": {
+                "g1_hd": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_hd\/a024778ad524459a905babbd49b5971a.jpg",
+                    "size": {
+                        "width": 2110,
+                        "height": 2813
+                    }
+                },
+                "g1_thumb_square": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_thumb_square\/a024778ad524459a905babbd49b5971a.jpg",
+                    "size": {
+                        "width": 160,
+                        "height": 160
+                    }
+                },
+                "g1_smartphone": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_smartphone\/a024778ad524459a905babbd49b5971a.jpg",
+                    "size": {
+                        "width": 640,
+                        "height": 853
+                    }
+                }
+            },
+            "taken_at_local": "2016-02-21T00:59:30-06:00",
+            "type": "photo"
+        },
+        {
+            "trim": false,
+            "uuid": "ceb0e475f2614b61a0ee3350fd5e2508",
+            "tags": [],
+            "url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/ceb0e475f2614b61a0ee3350fd5e2508\/",
+            "faces": [],
+            "favorite": false,
+            "quality_score": 3.7225051386,
+            "faces_url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/ceb0e475f2614b61a0ee3350fd5e2508\/faces\/",
+            "moment_uuid": "e2980a22b7964a0d9115b443f0401ead",
+            "favorited_time": null,
+            "renders": {
+                "g1_hd": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_hd\/ceb0e475f2614b61a0ee3350fd5e2508.jpg",
+                    "size": {
+                        "width": 1852,
+                        "height": 2469
+                    }
+                },
+                "g1_thumb_square": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_thumb_square\/ceb0e475f2614b61a0ee3350fd5e2508.jpg",
+                    "size": {
+                        "width": 160,
+                        "height": 160
+                    }
+                },
+                "g1_smartphone": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_smartphone\/ceb0e475f2614b61a0ee3350fd5e2508.jpg",
+                    "size": {
+                        "width": 640,
+                        "height": 853
+                    }
+                }
+            },
+            "taken_at_local": "2016-02-21T01:10:39-06:00",
+            "type": "photo"
+        },
+        {
+            "trim": true,
+            "uuid": "78bd829284cd41bda6058231b17e6700",
+            "tags": [],
+            "url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/78bd829284cd41bda6058231b17e6700\/",
+            "faces": [],
+            "favorite": false,
+            "quality_score": 4.4955850883,
+            "faces_url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/78bd829284cd41bda6058231b17e6700\/faces\/",
+            "moment_uuid": "e2980a22b7964a0d9115b443f0401ead",
+            "favorited_time": null,
+            "renders": {
+                "g1_hd": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_hd\/78bd829284cd41bda6058231b17e6700.jpg",
+                    "size": {
+                        "width": 1775,
+                        "height": 2367
+                    }
+                },
+                "g1_thumb_square": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_thumb_square\/78bd829284cd41bda6058231b17e6700.jpg",
+                    "size": {
+                        "width": 160,
+                        "height": 160
+                    }
+                },
+                "g1_smartphone": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_smartphone\/78bd829284cd41bda6058231b17e6700.jpg",
+                    "size": {
+                        "width": 640,
+                        "height": 853
+                    }
+                }
+            },
+            "taken_at_local": "2016-02-21T01:11:11-06:00",
+            "type": "photo"
+        },
+        {
+            "trim": false,
+            "uuid": "cf9fda83264348e7809e8a4adca031d5",
+            "tags": [],
+            "url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/cf9fda83264348e7809e8a4adca031d5\/",
+            "faces": [],
+            "favorite": false,
+            "quality_score": 3.4408680199,
+            "faces_url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/cf9fda83264348e7809e8a4adca031d5\/faces\/",
+            "moment_uuid": "e2980a22b7964a0d9115b443f0401ead",
+            "favorited_time": null,
+            "renders": {
+                "g1_hd": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_hd\/cf9fda83264348e7809e8a4adca031d5.jpg",
+                    "size": {
+                        "width": 2448,
+                        "height": 3264
+                    }
+                },
+                "g1_thumb_square": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_thumb_square\/cf9fda83264348e7809e8a4adca031d5.jpg",
+                    "size": {
+                        "width": 160,
+                        "height": 160
+                    }
+                },
+                "g1_smartphone": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_smartphone\/cf9fda83264348e7809e8a4adca031d5.jpg",
+                    "size": {
+                        "width": 640,
+                        "height": 853
+                    }
+                }
+            },
+            "taken_at_local": "2016-02-21T01:11:43-06:00",
+            "type": "photo"
+        },
+        {
+            "trim": false,
+            "uuid": "7f14ced6b78b406fb121889f74f2e9b3",
+            "tags": [],
+            "url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/7f14ced6b78b406fb121889f74f2e9b3\/",
+            "faces": [],
+            "favorite": false,
+            "quality_score": 2.2399647054,
+            "faces_url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/7f14ced6b78b406fb121889f74f2e9b3\/faces\/",
+            "moment_uuid": "e2980a22b7964a0d9115b443f0401ead",
+            "favorited_time": null,
+            "renders": {
+                "g1_hd": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_hd\/7f14ced6b78b406fb121889f74f2e9b3.jpg",
+                    "size": {
+                        "width": 1779,
+                        "height": 2372
+                    }
+                },
+                "g1_thumb_square": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_thumb_square\/7f14ced6b78b406fb121889f74f2e9b3.jpg",
+                    "size": {
+                        "width": 160,
+                        "height": 160
+                    }
+                },
+                "g1_smartphone": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_smartphone\/7f14ced6b78b406fb121889f74f2e9b3.jpg",
+                    "size": {
+                        "width": 640,
+                        "height": 853
+                    }
+                }
+            },
+            "taken_at_local": "2016-02-21T01:14:02-06:00",
+            "type": "photo"
+        },
+        {
+            "trim": false,
+            "uuid": "0b75418ce6534470b06d6b6a0878d296",
+            "tags": [],
+            "url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/0b75418ce6534470b06d6b6a0878d296\/",
+            "faces": [],
+            "favorite": false,
+            "quality_score": 2.2668639713,
+            "faces_url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/0b75418ce6534470b06d6b6a0878d296\/faces\/",
+            "moment_uuid": "e2980a22b7964a0d9115b443f0401ead",
+            "favorited_time": null,
+            "renders": {
+                "g1_hd": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_hd\/0b75418ce6534470b06d6b6a0878d296.jpg",
+                    "size": {
+                        "width": 1672,
+                        "height": 2229
+                    }
+                },
+                "g1_thumb_square": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_thumb_square\/0b75418ce6534470b06d6b6a0878d296.jpg",
+                    "size": {
+                        "width": 160,
+                        "height": 160
+                    }
+                },
+                "g1_smartphone": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_smartphone\/0b75418ce6534470b06d6b6a0878d296.jpg",
+                    "size": {
+                        "width": 640,
+                        "height": 853
+                    }
+                }
+            },
+            "taken_at_local": "2016-02-21T01:15:06-06:00",
+            "type": "photo"
+        },
+        {
+            "trim": false,
+            "uuid": "06e9baf5f2994e5f912eaabd4b03d3d3",
+            "tags": [],
+            "url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/06e9baf5f2994e5f912eaabd4b03d3d3\/",
+            "faces": [],
+            "favorite": false,
+            "quality_score": 2.6831173002,
+            "faces_url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/06e9baf5f2994e5f912eaabd4b03d3d3\/faces\/",
+            "moment_uuid": "e2980a22b7964a0d9115b443f0401ead",
+            "favorited_time": null,
+            "renders": {
+                "g1_hd": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_hd\/06e9baf5f2994e5f912eaabd4b03d3d3.jpg",
+                    "size": {
+                        "width": 2448,
+                        "height": 3264
+                    }
+                },
+                "g1_thumb_square": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_thumb_square\/06e9baf5f2994e5f912eaabd4b03d3d3.jpg",
+                    "size": {
+                        "width": 160,
+                        "height": 160
+                    }
+                },
+                "g1_smartphone": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_smartphone\/06e9baf5f2994e5f912eaabd4b03d3d3.jpg",
+                    "size": {
+                        "width": 640,
+                        "height": 853
+                    }
+                }
+            },
+            "taken_at_local": "2016-02-21T01:19:26-06:00",
+            "type": "photo"
+        },
+        {
+            "trim": false,
+            "uuid": "6640285510704ad68e1c1ebe70e9a540",
+            "tags": [],
+            "url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/6640285510704ad68e1c1ebe70e9a540\/",
+            "faces": [],
+            "favorite": false,
+            "quality_score": 3.1904004404,
+            "faces_url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/6640285510704ad68e1c1ebe70e9a540\/faces\/",
+            "moment_uuid": "e2980a22b7964a0d9115b443f0401ead",
+            "favorited_time": null,
+            "renders": {
+                "g1_hd": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_hd\/6640285510704ad68e1c1ebe70e9a540.jpg",
+                    "size": {
+                        "width": 1853,
+                        "height": 2471
+                    }
+                },
+                "g1_thumb_square": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_thumb_square\/6640285510704ad68e1c1ebe70e9a540.jpg",
+                    "size": {
+                        "width": 160,
+                        "height": 160
+                    }
+                },
+                "g1_smartphone": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_smartphone\/6640285510704ad68e1c1ebe70e9a540.jpg",
+                    "size": {
+                        "width": 640,
+                        "height": 853
+                    }
+                }
+            },
+            "taken_at_local": "2016-02-21T01:25:53-06:00",
+            "type": "photo"
+        },
+        {
+            "trim": false,
+            "uuid": "e56a8890c1604b7f8db7aa4d6de01634",
+            "tags": [],
+            "url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/e56a8890c1604b7f8db7aa4d6de01634\/",
+            "faces": [],
+            "favorite": false,
+            "quality_score": 2.5640095437,
+            "faces_url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/e56a8890c1604b7f8db7aa4d6de01634\/faces\/",
+            "moment_uuid": "e2980a22b7964a0d9115b443f0401ead",
+            "favorited_time": null,
+            "renders": {
+                "g1_hd": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_hd\/e56a8890c1604b7f8db7aa4d6de01634.jpg",
+                    "size": {
+                        "width": 1632,
+                        "height": 2176
+                    }
+                },
+                "g1_thumb_square": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_thumb_square\/e56a8890c1604b7f8db7aa4d6de01634.jpg",
+                    "size": {
+                        "width": 160,
+                        "height": 160
+                    }
+                },
+                "g1_smartphone": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_smartphone\/e56a8890c1604b7f8db7aa4d6de01634.jpg",
+                    "size": {
+                        "width": 640,
+                        "height": 853
+                    }
+                }
+            },
+            "taken_at_local": "2016-02-21T01:26:25-06:00",
+            "type": "photo"
+        },
+        {
+            "trim": true,
+            "uuid": "85828d21332e464cb65213069711f108",
+            "tags": [],
+            "url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/85828d21332e464cb65213069711f108\/",
+            "faces": [],
+            "favorite": false,
+            "quality_score": 3.86697686,
+            "faces_url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/85828d21332e464cb65213069711f108\/faces\/",
+            "moment_uuid": "e2980a22b7964a0d9115b443f0401ead",
+            "favorited_time": null,
+            "renders": {
+                "g1_hd": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_hd\/85828d21332e464cb65213069711f108.jpg",
+                    "size": {
+                        "width": 2109,
+                        "height": 2812
+                    }
+                },
+                "g1_thumb_square": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_thumb_square\/85828d21332e464cb65213069711f108.jpg",
+                    "size": {
+                        "width": 160,
+                        "height": 160
+                    }
+                },
+                "g1_smartphone": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_smartphone\/85828d21332e464cb65213069711f108.jpg",
+                    "size": {
+                        "width": 640,
+                        "height": 853
+                    }
+                }
+            },
+            "taken_at_local": "2016-02-21T01:26:57-06:00",
+            "type": "photo"
+        },
+        {
+            "trim": true,
+            "uuid": "192c40792cbe4fb987d412fd56df6178",
+            "tags": [],
+            "url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/192c40792cbe4fb987d412fd56df6178\/",
+            "faces": [],
+            "favorite": false,
+            "quality_score": 4.486879118,
+            "faces_url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/192c40792cbe4fb987d412fd56df6178\/faces\/",
+            "moment_uuid": "e2980a22b7964a0d9115b443f0401ead",
+            "favorited_time": null,
+            "renders": {
+                "g1_hd": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_hd\/192c40792cbe4fb987d412fd56df6178.jpg",
+                    "size": {
+                        "width": 2448,
+                        "height": 3264
+                    }
+                },
+                "g1_thumb_square": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_thumb_square\/192c40792cbe4fb987d412fd56df6178.jpg",
+                    "size": {
+                        "width": 160,
+                        "height": 160
+                    }
+                },
+                "g1_smartphone": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_smartphone\/192c40792cbe4fb987d412fd56df6178.jpg",
+                    "size": {
+                        "width": 640,
+                        "height": 853
+                    }
+                }
+            },
+            "taken_at_local": "2016-02-21T01:27:29-06:00",
+            "type": "photo"
+        },
+        {
+            "trim": false,
+            "uuid": "1aeabd5e2c22477598a9ae4b68e878a2",
+            "tags": [],
+            "url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/1aeabd5e2c22477598a9ae4b68e878a2\/",
+            "faces": [],
+            "favorite": false,
+            "quality_score": 2.056236239,
+            "faces_url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/1aeabd5e2c22477598a9ae4b68e878a2\/faces\/",
+            "moment_uuid": "e2980a22b7964a0d9115b443f0401ead",
+            "favorited_time": null,
+            "renders": {
+                "g1_hd": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_hd\/1aeabd5e2c22477598a9ae4b68e878a2.jpg",
+                    "size": {
+                        "width": 1922,
+                        "height": 2563
+                    }
+                },
+                "g1_thumb_square": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_thumb_square\/1aeabd5e2c22477598a9ae4b68e878a2.jpg",
+                    "size": {
+                        "width": 160,
+                        "height": 160
+                    }
+                },
+                "g1_smartphone": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_smartphone\/1aeabd5e2c22477598a9ae4b68e878a2.jpg",
+                    "size": {
+                        "width": 640,
+                        "height": 853
+                    }
+                }
+            },
+            "taken_at_local": "2016-02-21T01:28:01-06:00",
+            "type": "photo"
+        },
+        {
+            "trim": false,
+            "uuid": "17f6fc8db29b48a09263466737051988",
+            "tags": [],
+            "url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/17f6fc8db29b48a09263466737051988\/",
+            "faces": [],
+            "favorite": false,
+            "quality_score": 2.2949964174,
+            "faces_url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/17f6fc8db29b48a09263466737051988\/faces\/",
+            "moment_uuid": "e2980a22b7964a0d9115b443f0401ead",
+            "favorited_time": null,
+            "renders": {
+                "g1_hd": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_hd\/17f6fc8db29b48a09263466737051988.jpg",
+                    "size": {
+                        "width": 2448,
+                        "height": 3264
+                    }
+                },
+                "g1_thumb_square": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_thumb_square\/17f6fc8db29b48a09263466737051988.jpg",
+                    "size": {
+                        "width": 160,
+                        "height": 160
+                    }
+                },
+                "g1_smartphone": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_smartphone\/17f6fc8db29b48a09263466737051988.jpg",
+                    "size": {
+                        "width": 640,
+                        "height": 853
+                    }
+                }
+            },
+            "taken_at_local": "2016-02-21T01:29:37-06:00",
+            "type": "photo"
+        },
+        {
+            "trim": true,
+            "uuid": "5021603bb5044c0ba22c3c838d0cfb66",
+            "tags": [],
+            "url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/5021603bb5044c0ba22c3c838d0cfb66\/",
+            "faces": [],
+            "favorite": false,
+            "quality_score": 3.4220724032,
+            "faces_url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/5021603bb5044c0ba22c3c838d0cfb66\/faces\/",
+            "moment_uuid": "e2980a22b7964a0d9115b443f0401ead",
+            "favorited_time": null,
+            "renders": {
+                "g1_hd": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_hd\/5021603bb5044c0ba22c3c838d0cfb66.jpg",
+                    "size": {
+                        "width": 2448,
+                        "height": 3264
+                    }
+                },
+                "g1_thumb_square": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_thumb_square\/5021603bb5044c0ba22c3c838d0cfb66.jpg",
+                    "size": {
+                        "width": 160,
+                        "height": 160
+                    }
+                },
+                "g1_smartphone": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_smartphone\/5021603bb5044c0ba22c3c838d0cfb66.jpg",
+                    "size": {
+                        "width": 640,
+                        "height": 853
+                    }
+                }
+            },
+            "taken_at_local": "2016-02-21T01:30:09-06:00",
+            "type": "photo"
+        },
+        {
+            "trim": false,
+            "uuid": "d2de05c97dd44d969ddb861c5d1e3a0c",
+            "tags": [],
+            "url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/d2de05c97dd44d969ddb861c5d1e3a0c\/",
+            "faces": [],
+            "favorite": false,
+            "quality_score": 1.833280131,
+            "faces_url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/d2de05c97dd44d969ddb861c5d1e3a0c\/faces\/",
+            "moment_uuid": "e2980a22b7964a0d9115b443f0401ead",
+            "favorited_time": null,
+            "renders": {
+                "g1_hd": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_hd\/d2de05c97dd44d969ddb861c5d1e3a0c.jpg",
+                    "size": {
+                        "width": 1705,
+                        "height": 2273
+                    }
+                },
+                "g1_thumb_square": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_thumb_square\/d2de05c97dd44d969ddb861c5d1e3a0c.jpg",
+                    "size": {
+                        "width": 160,
+                        "height": 160
+                    }
+                },
+                "g1_smartphone": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_smartphone\/d2de05c97dd44d969ddb861c5d1e3a0c.jpg",
+                    "size": {
+                        "width": 640,
+                        "height": 853
+                    }
+                }
+            },
+            "taken_at_local": "2016-02-21T01:30:41-06:00",
+            "type": "photo"
+        },
+        {
+            "trim": false,
+            "uuid": "7b1a69d0a73f4ee596aad00c6fdd819b",
+            "tags": [],
+            "url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/7b1a69d0a73f4ee596aad00c6fdd819b\/",
+            "faces": [],
+            "favorite": false,
+            "quality_score": 2.1151921572,
+            "faces_url": "https:\/\/narrativeapp.com\/api\/v2\/photos\/7b1a69d0a73f4ee596aad00c6fdd819b\/faces\/",
+            "moment_uuid": "e2980a22b7964a0d9115b443f0401ead",
+            "favorited_time": null,
+            "renders": {
+                "g1_hd": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_hd\/7b1a69d0a73f4ee596aad00c6fdd819b.jpg",
+                    "size": {
+                        "width": 3264,
+                        "height": 2448
+                    }
+                },
+                "g1_thumb_square": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_thumb_square\/7b1a69d0a73f4ee596aad00c6fdd819b.jpg",
+                    "size": {
+                        "width": 160,
+                        "height": 160
+                    }
+                },
+                "g1_smartphone": {
+                    "url": "https:\/\/app-cdnandbuckets-privatebucket-1nx6pcmahiqo5.s3.amazonaws.com\/private\/users\/7319f4f18918441e944b78eb0b7d5c37\/renders\/g1_smartphone\/7b1a69d0a73f4ee596aad00c6fdd819b.jpg",
+                    "size": {
+                        "width": 640,
+                        "height": 480
+                    }
+                }
+            },
+            "taken_at_local": "2016-02-21T01:35:17-06:00",
+            "type": "photo"
+        }
+    ],
+    "next": null
+}

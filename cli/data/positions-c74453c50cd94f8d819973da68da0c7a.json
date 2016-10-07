@@ -1,0 +1,286 @@
+{
+    "previous": null,
+    "results": [
+        {
+            "timestamp": "2016-08-16T17:34:26Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.074843,
+                        52.971132
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Burton Road"
+                }
+            },
+            "created": "2016-08-16T22:29:27Z"
+        },
+        {
+            "timestamp": "2016-08-16T17:42:52Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.1303,
+                        52.979434
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "The Wells Road"
+                }
+            },
+            "created": "2016-08-16T22:29:19Z"
+        },
+        {
+            "timestamp": "2016-08-16T17:48:07Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.149017,
+                        52.957368
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Shakespeare Street"
+                }
+            },
+            "created": "2016-08-16T18:24:02Z"
+        },
+        {
+            "timestamp": "2016-08-16T17:50:04Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.150863,
+                        52.954388
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Norfolk Place"
+                }
+            },
+            "created": "2016-08-16T22:29:28Z"
+        },
+        {
+            "timestamp": "2016-08-16T18:00:20Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.126662,
+                        52.928695
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Tudor Road"
+                }
+            },
+            "created": "2016-08-16T22:29:25Z"
+        },
+        {
+            "timestamp": "2016-08-16T17:32:14Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.06841,
+                        52.961361
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Victoria Park Way"
+                }
+            },
+            "created": "2016-08-16T22:29:24Z"
+        },
+        {
+            "timestamp": "2016-08-16T17:32:36Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.068054,
+                        52.961657
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Victoria Park Way"
+                }
+            },
+            "created": "2016-08-16T22:29:18Z"
+        },
+        {
+            "timestamp": "2016-08-16T17:32:58Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.068079,
+                        52.961359
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Victoria Park Way"
+                }
+            },
+            "created": "2016-08-16T22:29:24Z"
+        },
+        {
+            "timestamp": "2016-08-16T17:49:20Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.152149,
+                        52.955561
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Goldsmith Street"
+                }
+            },
+            "created": "2016-08-16T22:29:25Z"
+        },
+        {
+            "timestamp": "2016-08-16T17:33:42Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.070603,
+                        52.964671
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Rochester Avenue"
+                }
+            },
+            "created": "2016-08-16T22:29:27Z"
+        },
+        {
+            "timestamp": "2016-08-16T17:47:17Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.147328,
+                        52.959841
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Wellington Street"
+                }
+            },
+            "created": "2016-08-16T22:29:24Z"
+        },
+        {
+            "timestamp": "2016-08-16T18:00:42Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.124866,
+                        52.927802
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Exchange Road"
+                }
+            },
+            "created": "2016-08-16T22:29:21Z"
+        },
+        {
+            "timestamp": "2016-08-16T17:42:08Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.12553,
+                        52.98102
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Gedling"
+                }
+            },
+            "created": "2016-08-16T22:29:22Z"
+        },
+        {
+            "timestamp": "2016-08-16T17:55:56Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.140155,
+                        52.943729
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "London Road"
+                }
+            },
+            "created": "2016-08-16T22:29:24Z"
+        }
+    ],
+    "next": null
+}

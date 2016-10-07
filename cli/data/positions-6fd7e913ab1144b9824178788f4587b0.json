@@ -1,0 +1,66 @@
+{
+    "previous": null,
+    "results": [
+        {
+            "timestamp": "2016-05-18T22:38:02Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.13932,
+                        52.953277
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Lower Parliament Street"
+                }
+            },
+            "created": "2016-05-19T00:09:08Z"
+        },
+        {
+            "timestamp": "2016-05-18T22:17:57Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.139366,
+                        53.003139
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Mansfield Road"
+                }
+            },
+            "created": "2016-05-19T00:07:45Z"
+        },
+        {
+            "timestamp": "2016-05-18T21:57:29Z",
+            "camera_uuid": "7e69b7bdc9104c91b25c763f67b807d1",
+            "location": {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.164744,
+                        52.955087
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "city": "Nottingham",
+                    "country": "United Kingdom",
+                    "address": "Derby Road"
+                }
+            },
+            "created": "2016-05-19T00:06:42Z"
+        }
+    ],
+    "next": null
+}
