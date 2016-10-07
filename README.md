@@ -14,3 +14,8 @@ This script will also mangle the geolocation data from the platform to a useful 
 # Contributions
 
 Contributions to the project are welcome, although it is likely the hosted cloud platform from Narrative AB will no longer exist by November 2016, making this downloader useless.
+
+# Notes
+
+**public_html** contains a HTML page allowing you to retrieve an access token from the Narrative Platform.
+**cli** contains PHP commandline scripts. Open a command prompt, change to the cli directory, and run `php narrativeclipdownloader.php`
