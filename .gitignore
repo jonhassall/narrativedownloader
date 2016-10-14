@@ -1,2 +1,3 @@
 # Configuration files (may contain sensitive access token)
-*.ini
+cli/*.ini
+*.mp4
